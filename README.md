@@ -1,6 +1,6 @@
 # autom8r.haych
 
-### AI nerd. Marketing brain.
+###  AI fanatic. Marketing brain. Oh and a Bachelor's in artificial intelligence too - 22yrs from London
 
 I build AI systems and think about how people discover, understand and use them. My work connects **agent workflows, social media strategy, influencer research and product development**.
 
@@ -10,7 +10,7 @@ I care about the whole journey: the hook that earns attention, the story that ma
 
 ## JARVIS — my AI office
 
-A Notion-backed operating workspace with **17 specialist roles**, shared work records, task ownership, handoffs and evidence checks. A conversational coordinator brings together marketing, research, product and delivery work.
+A agents operating workspace with **17 specialist roles**, shared work records, task ownership, handoffs and evidence checks. A conversational coordinator brings together marketing, research, product and delivery work.
 
 The workflow: **brief → owner → research → specialist work → review → saved output → verification**.
 

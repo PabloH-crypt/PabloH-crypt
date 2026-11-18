@@ -19,7 +19,7 @@ My work sits between software engineering, AI workflows and creative strategy. I
 | **[JARVIS OS](https://app.notion.com/p/3e233f4587248142b447cd997eeb6ff1)** | Personal AI command centre with 17 specialist workboards, evidence-led tasks and handoffs | Configured Notion operating system; roles are not independent autonomous workers |
 | **[Vaultara](https://vaultara.space/)** | Trend research, competitor intelligence and AI-assisted creative campaign workflows | Product development; live capabilities not independently audited here |
 | **Guidestick** | Embedded, multi-tenant AI assistant with admin tooling and configurable deployment | Co-building with Yassin / Ceno Builds; implementation private |
-| **[TCG Dex](https://tcgdex.io/)** | Trading-card intelligence: listings, trends, watchlists, portfolio and scanning direction | Mobile product in development |
+| **Pokewatchr** | Trading-card intelligence: listings, trends, watchlists, portfolio and scanning direction | Mobile product in development |
 | **Agent H** | React/TypeScript control panel for AI calling, contacts, agents and call records | [Private source prototype](https://github.com/PabloH-crypt/agent-h-control-panel); simulated flows clearly documented |
 
 **Source visibility:** this profile curates work across public websites, private repositories, prototypes and research. A product link is not a claim that its code is open source or production-verified. See [project-by-project status and limitations](PROJECTS.md).

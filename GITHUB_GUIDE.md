@@ -1,71 +1,45 @@
-# GitHub, without the jargon
+# Portfolio publishing standards
 
-A quick working guide for **autom8r.haych**.
+[← Profile](README.md) · [Project register](PROJECTS.md)
 
-## Your setup
+This repository documents public-facing work. It should look like an engineering portfolio, not a collection of generated marketing claims.
 
-- [Public profile](https://github.com/PabloH-crypt): the main introduction to your work.
-- [Build journey](https://github.com/PabloH-crypt/PabloH-crypt/blob/main/JOURNEY.md): how the projects connect.
-- [Project notes](https://github.com/PabloH-crypt/PabloH-crypt/blob/main/PROJECTS.md): what each project does and its current stage.
+## Evidence over decoration
 
-## The words you will see
+For any project we publish, include:
 
-| Word | What it means |
-| --- | --- |
-| Repository / repo | A project folder with its change history |
-| README | The project's front page: purpose, setup and current state |
-| Commit | A saved change with a short explanation |
-| Branch | A separate line of work for a change |
-| Pull request / PR | A proposal to review and merge a branch |
-| Issue | A task, bug report or discussion |
-| Star | A bookmark or sign of interest in a repository |
-| Follow | Add a developer or organisation to your feed |
-| Fork | A copy of another repository; original authorship stays with its creator |
-| Public / private | Visible to everyone, or only to authorised people |
+1. **Problem and audience** — one clear paragraph.
+2. **My exact role** — solo, team, university, client or research.
+3. **Architecture and stack** — what is actually used, not every technology I've heard of.
+4. **Working features** — evidenced by source, a demo or a reproducible test.
+5. **Limitations** — simulated actions, missing integrations, security and accessibility gaps.
+6. **Run and test instructions** — for public source repositories.
+7. **Next milestone** — one concrete, measurable improvement.
 
-## Accounts worth following
+Distinguish a prepared concept from a functioning prototype, an interface from its backend, a hosted demo from a production system, and a reported payment from a confirmed customer outcome.
 
-| Account | Relevance |
-| --- | --- |
-| [karpathy](https://github.com/karpathy) | Neural-network fundamentals and small implementations to study |
-| [simonw](https://github.com/simonw) | Practical language-model and data tools |
-| [huggingface](https://github.com/huggingface) | Model tooling across text, images and audio |
-| [n8n-io](https://github.com/n8n-io) | Business workflow automation |
+## What not to do
 
-## Useful starting repositories
+- No animated activity generators, inflated skill bars, vanity metrics or generic motivational banners.
+- No fake contribution streaks, testimonials, partnerships, app-store releases or deployment claims.
+- No empty repos created just to make the account appear larger.
+- No public release of client work or shared projects without permission.
+- No screenshots with real customer, patient, student or contact information.
+- No keys, credentials, copied private configuration or secrets in source/history.
+- No claiming ownership of external-company assets.
 
-- [micrograd](https://github.com/karpathy/micrograd): a compact automatic-differentiation engine.
-- [llm](https://github.com/simonw/llm): tools for working with language models.
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook): API examples.
-- [FastAPI](https://github.com/fastapi/fastapi): Python APIs.
-- [n8n](https://github.com/n8n-io/n8n): workflow automation.
+## Repository hygiene
 
-Read one project's README, run a relevant example and explain what you changed. That produces more useful learning than collecting many bookmarks.
+Public source projects should have an informative README, appropriate licence (only when chosen), .gitignore, meaningful commits, and a documented test/build path. Before publishing a private repository, audit its files **and history**, credentials, ownership and dependencies. Adding a .gitignore later does not remove secrets already committed.
 
-## A simple project workflow
+Use short, purposeful commits and review the diff before merging. Not every project needs a public repo: documentation can be public while implementation stays private.
 
-1. Write down the problem and the next small improvement.
-2. Work on a branch when a change needs review.
-3. Make the change and check the behaviour it affects.
-4. Commit with a specific message, such as `Fix contact search for empty input`.
-5. Review the diff, then merge.
-6. Update the README when the setup or behaviour changes.
+## Portfolio priorities
 
-Each public project should explain the problem, contribution, current stage, stack, setup and limitations. Keep screenshots and demo data fictional or cleared for publication.
+1. Preserve the concise [profile README](README.md).
+2. Keep [PROJECTS.md](PROJECTS.md) comprehensive but factual.
+3. Write technical case studies for a few strong projects with screenshots, diagrams and validated behaviour.
+4. Publish reproducible code only after access, privacy and quality review.
+5. Revisit the register when a stage changes; don't silently promote concepts to products.
 
-## Building a useful portfolio
-
-Start with a few well-explained projects. A working demo, a clear setup and an honest description matter more than empty repositories or artificial activity.
-
-Case studies can be public while implementation remains private. Label documentation-only repositories clearly.
-
-## Keeping the public identity separate
-
-Use the chosen alias in public bios, documentation and commit authorship. GitHub's email-privacy setting provides a protected address for web commits. Local Git must also be configured to use the protected address shown in account settings.
-
-Commit history, screenshots, file contents, filenames, linked websites and social profiles can connect an alias to personal information. Check those before publishing. Changing a visible README does not remove older commits.
-
-## Official reference
-
-[Managing a GitHub profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)
-
+The bar is simple: **could another developer distinguish what exists, understand how it works and tell what remains unfinished?**

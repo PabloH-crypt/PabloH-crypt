@@ -16,9 +16,9 @@ My work sits between software engineering, AI workflows and creative strategy. I
 | :--- | :--- | :--- |
 | **[Autom8r](https://autom8r.uk/)** | Practical AI systems for businesses: assistants, websites, enquiry workflows, automation and social strategy | Operating agency; individual deployments vary |
 | **[KeepSide](https://keepside.uk/)** | Family-centred dementia support: memory vault, familiar information, accessible routines and assistant experiences | Interactive prototype / in development; not clinically validated |
-| **[JARVIS OS](https://app.notion.com/p/3e233f4587248142b447cd997eeb6ff1)** | Personal AI command centre with 17 specialist workboards, evidence-led tasks and handoffs | Configured Notion operating system; roles are not independent autonomous workers |
+| **[JARVIS OS]| Personal AI command centre with 17 specialist workboards, evidence-led tasks and handoffs | Configured interactive office  operating system; roles are not independent autonomous workers |
 | **[Vaultara](https://vaultara.space/)** | Trend research, competitor intelligence and AI-assisted creative campaign workflows | Product development; live capabilities not independently audited here |
-| **Guidestick** | Embedded, multi-tenant AI assistant with admin tooling and configurable deployment | Co-building with Yassin / Ceno Builds; implementation private |
+| **Guidestick** | Embedded, multi-tenant AI assistant with admin tooling and configurable deployment | Co-building with Yassin / sinoBuilds; implementation private |
 | **Pokewatchr** | Trading-card intelligence: listings, trends, watchlists, portfolio and scanning direction | Mobile product in development |
 | **Agent H** | React/TypeScript control panel for AI calling, contacts, agents and call records | [Private source prototype](https://github.com/PabloH-crypt/agent-h-control-panel); simulated flows clearly documented |
 

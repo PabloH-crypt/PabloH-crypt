@@ -1,66 +1,69 @@
-# autom8r.haych
+# Haych — AI systems, products & distribution
 
-###  AI fanatic. Marketing brain. Oh and a Bachelor's in artificial intelligence too - 22yrs from London
+**I build the product, the audience around it, and the system that makes it useful.**
 
-I build AI systems and think about how people discover, understand and use them. My work connects **agent workflows, social media strategy, influencer research and product development**.
+London-based founder of [Autom8r](https://autom8r.uk/) and BSc Computing & Artificial Intelligence student at the University of Greenwich.
 
-I care about the whole journey: the hook that earns attention, the story that makes a product matter, and the system that handles what happens next.
+My work sits between software engineering, AI workflows and creative strategy. I care about the full path: **what earns someone's attention → what makes a product worth trying → what happens after they use it**.
 
-[Autom8r](https://autom8r.uk/) · [KeepSide](https://keepside.uk/)
+[Autom8r](https://autom8r.uk/) · [KeepSide](https://keepside.uk/) · [Project register](PROJECTS.md) · [How I work](JOURNEY.md)
 
-## JARVIS — my AI office
+---
 
-A agents operating workspace with **17 specialist roles**, shared work records, task ownership, handoffs and evidence checks. A conversational coordinator brings together marketing, research, product and delivery work.
+## Selected work
 
-The workflow: **brief → owner → research → specialist work → review → saved output → verification**.
+| Project | What I work on | Current position |
+| :--- | :--- | :--- |
+| **[Autom8r](https://autom8r.uk/)** | Practical AI systems for businesses: assistants, websites, enquiry workflows, automation and social strategy | Operating agency; individual deployments vary |
+| **[KeepSide](https://keepside.uk/)** | Family-centred dementia support: memory vault, familiar information, accessible routines and assistant experiences | Interactive prototype / in development; not clinically validated |
+| **[JARVIS OS](https://app.notion.com/p/3e233f4587248142b447cd997eeb6ff1)** | Personal AI command centre with 17 specialist workboards, evidence-led tasks and handoffs | Configured Notion operating system; roles are not independent autonomous workers |
+| **[Vaultara](https://vaultara.space/)** | Trend research, competitor intelligence and AI-assisted creative campaign workflows | Product development; live capabilities not independently audited here |
+| **Guidestick** | Embedded, multi-tenant AI assistant with admin tooling and configurable deployment | Co-building with Yassin / Ceno Builds; implementation private |
+| **[TCG Dex](https://tcgdex.io/)** | Trading-card intelligence: listings, trends, watchlists, portfolio and scanning direction | Mobile product in development |
+| **Agent H** | React/TypeScript control panel for AI calling, contacts, agents and call records | [Private source prototype](https://github.com/PabloH-crypt/agent-h-control-panel); simulated flows clearly documented |
 
-Selected roles include **HAYCHMARK** for marketing, **FORGE** for product and code, **ORACLE** for research, **CLIENTOPS** for delivery, **ARCHIVIST** for knowledge and **SENTINEL** for risk and privacy.
+**Source visibility:** this profile curates work across public websites, private repositories, prototypes and research. A product link is not a claim that its code is open source or production-verified. See [project-by-project status and limitations](PROJECTS.md).
 
-**Stage:** configured workspace with documented operating guides and workboards. The roles are specialist perspectives; independent autonomous execution remains a separate development direction.
+## The part that makes my work different
 
-## Marketing is part of the build
+I started with the *market*, not just the model: influencer research, short-form creative, positioning and how people actually discover a product. I bring that thinking into engineering.
 
-My background includes **influencer marketing and creative strategy**. I work on audience and creator fit, short-form hooks, brand voice, campaign concepts, visual storytelling and the path from attention to enquiry.
+- **Audience & creative:** creator fit, hooks, brand voice, social formats, campaign ideas and distribution.
+- **Product & experience:** interface design, accessibility, working demonstrations and useful AI interactions.
+- **Operations:** enquiry capture, workflow automation, approvals, follow-up, documentation and evidence of outcomes.
 
-- **HAYCHMARK:** positioning, offers, customer research, content, distribution and performance learning inside the AI office. Its content loop: idea → hook → asset → channel → call to action → feedback.
-- **Vaultara:** content intelligence connecting trends and competitor research with memes, campaign ideas and strategic content. The documented scope includes a content library, campaign generator, content analysis, strategist chat and analytics. Pipeline in development.
-- **Isearch:** influencer discovery, evaluation and reporting designed to make creator selection more structured. Paused service concept and workflow design.
-- **Creative work:** social content planning, mascot-led campaigns, artist positioning, launch concepts, product films and consistent storytelling across formats.
-- **Autom8r:** business-specific AI assistants, automation, social strategy and customer experiences brought into one offer.
+A good assistant is not just a chat bubble. A good website is not just a landing page. And a good marketing campaign needs something worthwhile to send people to.
 
-I want the content, offer and follow-up to work together. Campaign results belong here when there is publishable evidence behind them.
+## Inside JARVIS
 
-## Products & experiments
+I use a Notion-based AI work system to coordinate projects and keep decisions traceable. Specialist roles cover marketing (**HAYCHMARK**), software (**FORGE**), research (**ORACLE**), client delivery (**CLIENTOPS**), records (**ARCHIVIST**) and privacy/risk (**SENTINEL**).
 
-| Work | Focus | Stage |
-| --- | --- | --- |
-| **Autom8r** | AI assistants, business automation, social strategy and digital experiences | Active business |
-| **KeepSide** | Familiar memories, family information and accessible support experiences | Interactive prototype; in development |
-| **Agent H** | Voice-agent controls, contacts, call workflows and integrations | Private React/TypeScript interface prototype |
-| **A8 World** | Virtual offices where businesses could discover and commission AI agents | Research / concept |
-| **AI Founders Initiative** | Turning AI-assisted ideas into testable business concepts | Public demonstration; programme in development |
-| **PeptiPulse** | Specialist reference-library and news product, with a planned content layer | Documented product work; current deployment unverified |
+The working loop is:
 
-KeepSide is an independent project in development; no clinical validation or institutional partnership is claimed. Agent H includes simulated interface actions and an external webhook path; it is a separate prototype from JARVIS.
+`brief → assign → investigate/build → review → save evidence → verify`
 
-## My journey
+This is a structured operating model, **not** a claim that 17 autonomous agents work independently in the background. [Read the system map](https://app.notion.com/p/3e233f4587248110963ad7c353ebf01a).
 
-**Marketing & audiences:** influencer research, creative strategy and understanding what makes an offer relevant.
+## Tools I use and study
 
-**Business & automation:** connecting customer-facing experiences with assistants, enquiries, follow-up and delivery through Autom8r.
+**Engineering:** Python · JavaScript / TypeScript · React · PHP · SQL / MySQL · HTML / CSS · HTTP APIs · webhooks
 
-**AI offices & content systems:** organising specialist work through JARVIS and exploring how Vaultara can turn research into better creative decisions.
+**Applied AI & product:** assistant design · workflow orchestration · conversational interfaces · prototypes · accessibility · testing and security fundamentals
 
-**Product building:** applying those ideas across KeepSide, voice-agent interfaces, education demonstrations and marketplace concepts.
+**Growth & creative:** influencer evaluation · audience research · content strategy · creative direction · conversion journeys
 
-Alongside these projects: Python desktop interfaces, PHP/MySQL applications, relational databases, accessible interface design and API integrations.
+I use AI-assisted coding tools. I still distinguish a generated scaffold from working functionality, and a successful demo from a tested deployment.
 
-## What I bring together
+## Current priorities
 
-**Build:** Python · React · TypeScript · PHP · SQL · APIs · interface prototyping · workflow design.  
-**Market:** positioning · influencer research · social strategy · hooks · creative direction · launch planning.  
-**Operate:** knowledge systems · task ownership · approval boundaries · evidence-led iteration.
+1. Develop KeepSide with feedback from families and relevant practitioners, without presenting it as a medical intervention.
+2. Deliver and document real, appropriately scoped Autom8r customer outcomes.
+3. Strengthen reusable AI workflows and the engineering quality of product prototypes.
+4. Publish code, tests and reproducible case studies **when ownership, privacy and readiness permit**.
 
-AI-assisted development is part of my workflow, alongside review and iteration.
+### More than a list of ideas
 
-Interested in collaborating on **AI agents, marketing tools, creator workflows and useful products with a clear audience**.
+[**Project register**](PROJECTS.md) — what exists, its maturity and what is still unverified.  
+[**My journey**](JOURNEY.md) — how marketing, AI and software became one practice.
+
+For project and business enquiries: [autom8r.uk](https://autom8r.uk/).

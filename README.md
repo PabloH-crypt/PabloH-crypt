@@ -2,7 +2,7 @@
 
 **I build the product, the audience around it, and the system that makes it useful.**
 
-London-based founder of [Autom8r](https://autom8r.uk/) and BSc Computing & Artificial Intelligence student at the University of Greenwich.
+London-based founder of [Autom8r](https://autom8r.uk/) and BSc Artificial Intelligence student 
 
 My work sits between software engineering, AI workflows and creative strategy. I care about the full path: **what earns someone's attention → what makes a product worth trying → what happens after they use it**.
 

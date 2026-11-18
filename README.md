@@ -1,39 +1,50 @@
-# AI systems. Useful products. Creative distribution.
+# haych.
 
-I work at the intersection of **AI engineering, web products, workflow automation and audience growth**.
+**AI systems · Product engineering · Distribution**
 
-My approach covers more than writing code: understanding the user, designing the experience, building the workflow and thinking about how people discover and adopt it.
+I build the layer between a promising idea and a product people can actually use.
 
-**Focus:** applied AI · TypeScript / React · Python · APIs · automation · product strategy · influencer and short-form marketing
+My work crosses **applied AI, software interfaces, workflow architecture and creative growth**. I think about how a system is built, how it fails, how a user understands it, and how the right audience finds it in the first place.
 
-[Selected work](PROJECTS.md) · [Approach](JOURNEY.md)
+I have worked on independent products, private client projects and collaborative builds. Some are working demonstrations; others are architecture or product-design work. I label the difference.
 
-## Selected experience
+---
 
-| Area | Work | Evidence / stage |
+### Selected work
+
+| Focus | Contribution | Stage |
 | --- | --- | --- |
-| **AI workflow systems** | Task routing, specialist workspaces, structured records, approvals and review loops | Configured operating workspace and prototypes |
-| **Business software** | Responsive service websites, enquiries, CRM-like operations, inventory and quote workflows | Browser-based demonstration builds |
-| **Automotive community app** | Event discovery, private access flows, organiser tools, car profiles and real-time interaction concepts | Product UX, specifications and trailer concepts |
-| **Conversational AI interfaces** | Embedded website assistants and an AI-calling control panel | Development prototypes; selected integrations simulated |
-| **Human-centred applications** | Accessible memory and routine-support experiences with permission-aware design | Interactive prototype using fictional data |
-| **Creative intelligence** | Trend research, creator evaluation, campaign planning and social-content workflows | Research systems, strategy and product development |
-| **Mobile and data products** | Collectibles-market analysis, watchlists and multi-market dashboard concepts | Mobile development and interface exploration |
+| **Business operations software** | Service-site UX, enquiry capture and a local operations console covering jobs, stock, quotes and customer workflows | Working browser demo |
+| **AI calling interface** | React/TypeScript dashboard, agent configuration, contact workflows and a webhook integration path | Private frontend prototype |
+| **AI workflow orchestration** | Specialist task routing, shared records, review gates and explicit human ownership | Configured system / prototypes |
+| **Automotive community product** | Mobile event flows, access controls, organiser experience, community features and launch creative | Product design / prototypes |
+| **Accessible AI experiences** | Memory, routines, familiar information and permission-aware user journeys | Interactive demonstration |
+| **Creative and market intelligence** | Creator research, trend analysis, campaign systems and data-led interface concepts | Product and strategy work |
 
-## What I bring to a build
+**The through-line:** engineering that respects the user journey, and creative work that understands the underlying system.
 
-**Engineering** — Python, JavaScript / TypeScript, React, HTML/CSS, PHP, SQL, API and webhook integration, data models and interactive prototypes.
+[Explore the case studies](PROJECTS.md) · [Read my engineering notes](JOURNEY.md)
 
-**Product** — requirements, UX, accessibility, practical AI assistants, workflow modelling and iteration.
+### How I think
 
-**Distribution** — influencer research, creative strategy, campaign concepts, short-form content, brand positioning and conversion journeys.
+- **Make state explicit.** An accepted API request is not the same as a completed operation.
+- **Design for the handoff.** Interfaces, data, people and automations need clear ownership.
+- **Treat privacy as architecture.** Permissions and sensitive data are product decisions, not finishing touches.
+- **Build for adoption.** Positioning, content and distribution influence what should be built.
+- **Show the real stage.** A prototype is valuable evidence without being called production software.
 
-**Delivery** — translating a business problem into a usable demonstration, scoping what is missing, and distinguishing real integrations from placeholders.
+### Working toolkit
 
-I use AI-assisted development as a tool, not as a substitute for understanding the system.
+`TypeScript` · `React` · `JavaScript` · `Python` · `SQL` · `PHP` · `REST APIs` · `Webhooks` · `Workflow automation`
 
-## How this portfolio works
+Product UX, accessible interfaces, structured data, AI-assisted development, influencer research, short-form creative and go-to-market strategy.
 
-Public examples are intentionally **anonymised**. Client identities, unreleased product names, private source code and internal workspaces are not listed. Descriptions distinguish implemented prototypes from planned functionality.
+### Connect
 
-For more detail, see the [anonymous case studies](PROJECTS.md) and [working approach](JOURNEY.md).
+I’m interested in **applied AI, developer tools, agent interfaces, creator technology and products with real users**—particularly where engineering and distribution intersect.
+
+Have an interesting build, technical problem or collaboration in mind? [Start a conversation through a GitHub issue](https://github.com/PabloH-crypt/PabloH-crypt/issues/new). *Issues are public; please don't include confidential information.*
+
+---
+
+<sub>haych / building in public where possible; keeping client code and identities private. Technical substance over artificial activity.</sub>

@@ -1,4 +1,4 @@
-# haych, 22, Bachelors of Artificial intelligence
+# haych, 22, Bachelors(BSc) of Artificial intelligence
 
 **AI systems · Product engineering · Distribution**
 

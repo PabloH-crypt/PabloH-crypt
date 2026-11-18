@@ -1,58 +1,43 @@
-# Engineering notes
+# How I approach a build
 
-[← haych](README.md) · [Work](PROJECTS.md)
+[← haych](README.md) · [Selected work](PROJECTS.md)
 
-I work on products at the point where **interfaces, AI, business processes and user behaviour** meet. These are some design principles I return to across prototypes and client work.
+I've never been particularly interested in building something just because a tool makes it possible.
 
-## 01 / A request is not an outcome
+A product needs a reason to exist. And if people don't understand it, discover it or trust it, good code on its own won't save it.
 
-A frontend can successfully POST to a service and still have no evidence that the underlying job finished.
+That's why my background in influencer marketing and creative strategy matters to how I build software.
 
-For any asynchronous workflow, I want to distinguish the stages:
+## First: who is this actually for?
 
-```text
-draft → submitting → accepted → running → succeeded
-                                   └──→ failed
-```
+Before choosing a framework, I want to know who the user is, where their attention already goes and what problem would make them change their behaviour.
 
-The exact contract depends on the backend. In a calling interface, a `200 OK` from a webhook should not be labelled “call completed.” Completion requires an authoritative event, status check or equivalent evidence.
+This is where creator research, audience fit, positioning and campaign thinking become product skills. Sometimes the right change isn't another feature. It's a clearer offer, a better first impression or a simpler journey.
 
-**What I look for:** request IDs, explicit pending states, retry/error behaviour and an auditable source of truth.
+## Then: what happens after the click?
 
-## 02 / Local persistence is not a backend
+I like mapping the whole experience. Someone watches a video, opens a page, asks a question, submits an enquiry—and then what?
 
-Browser storage is useful for a fast, interactive operations demonstration. It is not a shared database and is not a security boundary.
+That's where interfaces, backend contracts, APIs and automation matter. A beautiful page is only one piece. The useful work is connecting that page to the process behind it.
 
-A production transition needs to address authentication, authorisation, ownership checks, validation, auditability, backups and data retention—not just replace `localStorage` with an API call.
+In a business operations prototype, that meant designing the experience around enquiries, customer records, jobs, stock and quotes—not simply making a homepage.
 
-**What I look for:** entity boundaries, permission checks on the server, predictable empty/error states and a repeatable test path.
+## Technical honesty matters
 
-## 03 / An AI assistant needs constraints
+I have built and explored AI-agent interfaces, workflow systems and web products. I also know the difference between a demo and a deployment.
 
-An interface with multiple specialist roles can organise work, but the roles themselves do not guarantee autonomous execution or correct answers.
+A `200 OK` from a call-trigger endpoint is not the same as a completed telephone call. Data saved in `localStorage` is not a shared database. A set of named AI roles is not a fleet of autonomous employees.
 
-Useful systems need explicit context boundaries, source provenance, clear tool permissions, human approval for consequential actions and verification of output.
+Those details aren't marketing copy. They determine whether a product can be trusted.
 
-**What I look for:** what the assistant may read, what it may change, who approves a change, and how a mistake is detected.
+## Creative isn't an afterthought
 
-## 04 / Accessibility changes the architecture
+Short-form content, audience insight and visual storytelling influence the products I work on. For an event-platform concept, the app journey and the launch creative were part of the same thinking. For content-intelligence concepts, the aim was to make research and production easier without replacing human judgement.
 
-For a product built around sensitive or familiar information, accessibility isn't just visual polish.
-
-The design has to account for cognitive load, understandable language, predictable navigation, consent, appropriate role access and the possibility that information is outdated or incorrect.
-
-A fictional-data demonstration can test interaction ideas. It cannot establish real-world or clinical effectiveness.
-
-## 05 / Distribution belongs in product thinking
-
-A feature is only useful if someone understands it, discovers it and returns to it.
-
-My experience in influencer research and creative strategy changes how I scope technical products: audience fit, the first impression, short-form explanation, onboarding, call-to-action and follow-up all shape the system.
-
-That doesn't mean every product needs a content machine. It means **adoption is a design constraint**.
+I don't want marketing to be what happens after the build. I want it to help decide **what deserves to be built**.
 
 ---
 
-These are patterns and lessons from my work, not claims that every prototype already implements them at production quality.
+**That's the kind of work I'm after:** useful software, a clear story, and an audience with an actual reason to care.
 
-[Browse the anonymised case studies](PROJECTS.md).
+[See the selected projects](PROJECTS.md).

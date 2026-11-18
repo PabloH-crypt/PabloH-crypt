@@ -1,109 +1,93 @@
-# Work, selectively documented
+# Selected work
 
-A compact, anonymous portfolio of technical and creative contributions. The names of clients, collaborators and unreleased products are intentionally omitted. **A working demonstration, a design specification and a production release are different things.**
+**The marketing is part of the work.** So is the engineering.
 
-[← Profile](README.md) · [Engineering notes](JOURNEY.md)
+I keep project and client identities private, but the experience is real. Below is what I contributed and how far the work got. This is not a list of twelve supposedly launched startups.
 
-## Implemented / demonstrable work
+[← haych](README.md) · [How I work](JOURNEY.md)
 
-### 01. Business operations console
-**Challenge:** make a service business easier to understand online and its day-to-day work easier to organise.
+## Audience, creative and growth
 
-**Contribution:** developed a responsive review website with service/category search, filters, information panels, FAQs and an enquiry-summary journey. Built a separate browser-based operations demonstration with modules for enquiries, customers, jobs, refurbishments, inventory, quotes, invoices and tasks.
+### 01 / Influencer research and campaign strategy
 
-**Engineering:** frontend state, structured forms, record models and local browser persistence.
+The starting point is usually the audience: who they follow, what they respond to, what feels native to their feed and what makes a brand credible there.
 
-**Boundary:** no production backend, verified server authentication, live billing or integrated messaging is claimed.
+My work has included creator research and evaluation, campaign concepts, short-form hooks, platform-specific messaging, content planning, brand positioning and influencer-led outreach. I've also worked on the operational side of campaigns: briefs, coordination, content workflows and how attention connects to a meaningful next step.
 
-### 02. AI calling control surface
-**Challenge:** provide a usable control panel for configuring an assistant and initiating and reviewing calling workflows.
+**Experience:** professional marketing work and independent/client strategy, not an invented portfolio metric.
 
-**Contribution:** React/TypeScript interface for agent settings, contacts, a call form, dashboard and webhook configuration. An admin action can submit to an external HTTP endpoint; other interactions remain simulated.
+### 02 / Character-led and community campaigns
 
-**Engineering:** React, TypeScript, Vite, Tailwind, form validation, routing and integration boundaries.
+I have worked on creative directions for online communities where generic corporate posts simply don't fit. That includes mascot and character consistency, meme formats, community-specific language, concept libraries and short-video directions.
 
-**Boundary:** a successful HTTP response is not proof a real telephone call completed. Demonstration authentication is not a secure identity system.
+The interesting part is creating something recognisable enough to repeat, but flexible enough to respond to the culture of a platform.
 
-### 03. Accessible support prototype
-**Challenge:** make personal information and familiar routines easier to navigate in a sensitive context.
+**Stage:** historical campaign creative and development briefs. No unverified publishing volumes or performance numbers.
 
-**Contribution:** interactive assistant, memory and routine flows, family-reviewed information patterns and role-aware interface concepts; designed around clear language and fictional data.
+### 03 / Product stories and launch creative
 
-**Engineering focus:** information architecture, accessibility, permission boundaries and consent.
+For an automotive-community product, I worked on mobile experience ideas, event discovery, private access, organiser journeys, crews and live-interaction concepts—alongside trailer and launch-story directions.
 
-**Boundary:** prototype only; no clinical effectiveness claim.
+Other work includes artist positioning, motion-led portfolio experiences, product demonstrations, video concepts and social-first launch planning.
 
-### 04. AI work orchestration
-**Challenge:** coordinate research, development, creative work and follow-up without losing context or accountability.
+It's the overlap I enjoy most: understanding what the product actually does, then finding the story that makes people want to try it.
 
-**Contribution:** structured specialist-role workspaces, task routing, knowledge records, review checkpoints and evidence tracking.
+**Stage:** mixed design, prototypes and creative directions; not all products publicly released.
 
-**Engineering focus:** source-of-truth design, context separation, state transitions and human approval.
+### 04 / Creative intelligence and customer acquisition systems
 
-**Boundary:** configured orchestration, not proof of independently operating autonomous agents.
+I have explored ways to make research, creative production and follow-up more systematic: trend and competitor intelligence, creator evaluation, content queues, campaign planning, prospecting, enquiry capture, CRM structures, quoting and follow-up flows.
 
-## Product design / development
+My goal with tools like these is not to automate taste. It's to remove repetitive work so humans can spend more time on judgement, relationships and good creative.
 
-### 05. Automotive community application
-**Contribution:** mobile experience design for discovery, live events, different access levels, organiser updates, profiles, crews, rankings and real-time/audio interaction concepts. Developed product specifications and promotional film directions.
+**Stage:** product specifications, workflows and prototypes; marketing results are not claimed where unverified.
 
-**Technical direction:** React Native/Expo and backend/real-time service options.
+## Software and AI product work
 
-**Boundary:** product design and prototypes, not a verified public app release.
+### 05 / Business operations software
 
-### 06. Embedded conversational assistant
-**Contribution:** collaboration on a reusable, configurable website assistant, including multi-tenant design, theming, embed patterns, administrative controls, domain restrictions and conversation-history requirements.
+A responsive service-site demonstration with category browsing, search, filters, FAQs and an enquiry-summary journey. I also built a separate browser-based operations demo covering customers, jobs, refurbishments, inventory, quotes, invoices and tasks.
 
-**Boundary:** collaborative private product work. Specific production integrations remain undisclosed or unverified.
+**Engineering:** interface logic, forms, record models, local browser persistence.  
+**Stage:** demonstrable frontend/local workflows. Not a production multi-user backend or payment system.
 
-### 07. Collector-market mobile interface
-**Contribution:** mobile catalogue, reference-price, search, watchlist, portfolio and scanning product direction.
+### 06 / AI calling control interface
 
-**Technical direction:** React Native/Expo and market-data UX.
+A React/TypeScript control panel for agent configuration, contacts, call preparation, dashboard activity and integration settings. It includes a path to submit an HTTP request to an external calling service.
 
-**Boundary:** development-stage scope, not a claim that every feature is released.
+**Engineering:** React, TypeScript, Vite, Tailwind and webhook integration boundaries.  
+**Stage:** private frontend prototype. Some flows are simulated; a successful request is not evidence of a completed call.
 
-### 08. Market intelligence interfaces
-**Contribution:** multi-asset dashboard and AI-assisted research workflows for currencies, equities, indices, metals, commodities and digital assets.
+### 07 / Accessible support experience
 
-**Boundary:** research and interface concepts; no trading-performance or live-execution claim.
+An interactive concept built around familiar information, memories, routines, assistant interactions and different levels of access.
 
-## Creative technology / growth systems
+**Focus:** clear language, cognitive accessibility, consent and permissions.  
+**Stage:** fictional-data prototype, not a clinically validated product.
 
-### 09. Content and creator intelligence
-**Contribution:** creator evaluation, trend and competitor research, campaign ideation, short-form creative planning, social-content systems and analytics concepts.
+### 08 / Website assistant and AI workspace
 
-Worked across creator-led brands, hospitality, visual art and online communities. Experience includes character/mascot consistency, platform-native copy, video concepts and motion-led web presentation.
+Collaborative work on a configurable embedded assistant: tenant separation, appearance options, embed patterns, domain restrictions, administrative controls and conversation-history requirements.
 
-**Boundary:** strategic work and prototypes; published campaign metrics are not asserted without evidence.
+Separately, a structured AI-assisted working environment with specialist roles, shared records, review points, context boundaries and human approval.
 
-### 10. Acquisition and operations automation
-**Contribution:** sector research, prospecting workflows, lead triage, structured contact records, outreach drafts, enquiry-to-quote concepts and follow-up design.
+**Stage:** private collaborative product development and configured workspaces; not a claim of autonomous production agents.
 
-**Engineering focus:** API/webhook patterns, data handling, workflow states, approval boundaries and reusable business templates.
+### 09 / Mobile and market-data interfaces
 
-**Boundary:** planned or drafted campaigns are not represented as completed deliveries or verified conversions.
+Product directions spanning collector-market search, watchlists, portfolio views, reference pricing and scanning ideas, plus multi-asset intelligence dashboards across several financial markets.
 
-### 11. Community operations tooling
-**Contribution:** product architecture for signal monitoring, content queues, messaging integrations, moderation, scheduling and reporting in fast-moving online communities.
+**Focus:** mobile information architecture, data-led user journeys and analysis interfaces.  
+**Stage:** development/design directions; individual integrations and releases are not assumed.
 
-**Boundary:** product design and specification; no fake engagement or autonomous production operation claimed.
+## Technical range
 
-### 12. Digital storytelling and launches
-**Contribution:** digital portfolio experiences, creative direction, social-video narratives, launch concepts, product trailers and visual demonstrations.
+`Python` / object-oriented interfaces · `JavaScript` / `TypeScript` · `React` · `PHP` / `MySQL` CRUD · APIs and webhooks · relational data · responsive UI · accessibility fundamentals
 
-**Strength:** connecting the story of a product with the actual product flow, rather than treating design, engineering and distribution as separate tasks.
+I have also worked on AI-education demonstrations and ways to help people evaluate AI-generated ideas against evidence, feasibility and real costs.
 
-## Foundations and range
+## About the evidence
 
-**Technical:** Python OOP and desktop UI work; PHP/MySQL CRUD applications; relational database design; HTML/CSS; REST and webhook integrations; accessible interface design.
-
-**Product:** requirements, technical scoping, prototype reviews, architecture options, privacy and consent considerations.
-
-**Learning and education:** practical AI-literacy workshops and example-based demonstrations about validating AI-generated claims, business ideas and costs.
-
-### Publication boundaries
-
-Case studies describe my contribution and current evidence—not sole authorship of collaborative work. Private source, client records, location, identity, internal systems and unreleased names are deliberately excluded. There are no invented users, deployments, revenue figures or performance metrics.
+Some work was independent; some was commissioned or collaborative. This page describes my contribution, not sole ownership of other people's work. Client names, private implementations and sensitive information are intentionally withheld.
 
 [← haych](README.md)

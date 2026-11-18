@@ -1,4 +1,4 @@
-# Selected work — anonymous case studies
+# Selected work 
 
 This is a **privacy-first record of experience** across product engineering, AI, business software and creative systems. Project and client identities have been withheld. Some work was commissioned, some collaborative and some independent experimentation. No client code or confidential materials are published here.
 

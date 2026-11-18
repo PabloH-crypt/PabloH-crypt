@@ -20,7 +20,10 @@ My work sits between software engineering, AI workflows and creative strategy. I
 | **[Vaultara](https://vaultara.space/)** | Trend research, competitor intelligence and AI-assisted creative campaign workflows | Product development; live capabilities not independently audited here |
 | **Guidestick** | Embedded, multi-tenant AI assistant with admin tooling and configurable deployment | Co-building with Yassin / sinoBuilds; implementation private |
 | **Pokewatchr** | Trading-card intelligence: listings, trends, watchlists, portfolio and scanning direction | Mobile product in development |
+| **TT Events London** | Automotive community app design: meet discovery, private access, convoy updates, crews, TT Radio and organiser controls | App UX/MVP design and concept trailers; production launch not verified |
 | **Agent H** | React/TypeScript control panel for AI calling, contacts, agents and call records | [Private source prototype](https://github.com/PabloH-crypt/agent-h-control-panel); simulated flows clearly documented |
+
+**More work worth seeing:** [LCES business website + operations demo](PROJECTS.md#lces--equipment-business-website--operating-system), [AI Founders / AI to Schools](PROJECTS.md#ai-to-schools--ai-founders-initiative), [London Exquisite AI OS](PROJECTS.md#london-exquisite--company-ai-operations), [Scented Suits](PROJECTS.md#scented-suits--automotive-commerce--creative), [PR4DDIE ART](PROJECTS.md#pr4ddie-art--artist-brand--digital-portfolio) and the [full list of client, creative and product work](PROJECTS.md).
 
 **Source visibility:** this profile curates work across public websites, private repositories, prototypes and research. A product link is not a claim that its code is open source or production-verified. See [project-by-project status and limitations](PROJECTS.md).
 

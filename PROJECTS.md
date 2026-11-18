@@ -24,6 +24,14 @@ Seventeen specialist role workboards, shared records, decision logs, work assign
 **Position:** private React/TypeScript interface prototype. [Repository (access required)](https://github.com/PabloH-crypt/agent-h-control-panel).  
 Dashboard, contacts, call preparation, agent configuration, integration UI and an external webhook path. Several operations simulate success; browser-based demonstration login is not secure authentication; real call completion is unverified. No production telephony/backend claim is made.
 
+### TT Events London — automotive community app
+**Position:** app design, interactive screen/MVP direction and concept-preview films; paused development.  
+**My contribution:** product direction, mobile user journeys, interaction design, feature specifications, revised UI concepts and widescreen/vertical promotional trailers for a London automotive events platform.
+
+The experience was designed around **Discover / Live / Community / Shop**. Key modules and flows: event discovery and ticketing direction, public/request/invite-only access, scheduled or organiser-approved location reveals, live meet mode and convoy updates, nearby/crew/organiser **TT Radio**, car garages and profiles, crews, voting/leaderboards and winners, organiser announcements, safety controls, partner merchandising and car-culture commerce. A React Native/Expo, Supabase, LiveKit and Next.js admin stack was proposed.
+
+**Collaborator context:** conceived for Jibril's TT Events London; [Scented Suits](#scented-suits--automotive-commerce--creative) is a separate business in the wider car-community ecosystem. **Evidence:** demonstration and trailers were explored; no verified production app, active radio service or App Store release is claimed.
+
 ### Guidestick — embedded AI assistant
 **Position:** co-built SaaS in development; code not publicly verified.  
 Explores a multi-tenant assistant embedded on client sites, supported by an admin dashboard, styling presets, installation snippet, allow-list and conversation history. Initial market hypotheses include clinics and property.
@@ -40,6 +48,18 @@ An Expo/React Native direction spanning Pokémon, Yu-Gi-Oh and sports-card data,
 **Position:** documented product work; current deployment not verified.  
 Searchable peptide library, news and approval-tracking direction, with an automated content layer planned. Research/reference software, not clinical guidance.
 
+### AI to Schools / AI Founders Initiative
+**Position:** educational product concept, classroom demonstration and sponsorship programme development.  
+**My contribution:** developed the idea of helping school students use AI to create and test a practical business concept, rather than only learning prompts; planned the workshop format, learning journey, student safeguarding/GDPR considerations, sponsor positioning, delivery economics and outreach materials. The companion demonstration uses prepared examples and evidence-checking exercises. [Explore the classroom lab](https://autom8r.uk/ai-founders/lab). No signed sponsorship or measured educational outcome is claimed.
+
+### PutMeForward (earlier Campus Radar) — student job discovery
+**Position:** prototype / application-support direction.  
+**My contribution:** job-discovery and application-flow concept, user journey and a working application-support experience. A reported interview callback is not proof of platform-driven placement.
+
+### JARVIS London Office and Autom8r Workmate
+**Position:** separate interface/product experiments supporting the wider AI-office vision.  
+**My contribution:** personal multi-agent office visualisation and interactive workspace concepts; a browser-extension direction for capturing selected text as structured notes, learning repeatable administrative patterns and proposing automations. These are not represented here as public, production-verified apps.
+
 ## 02 / Marketing, creative technology and commercial delivery
 
 **Marketing is a technical discipline in this portfolio, not a footnote.**
@@ -47,7 +67,36 @@ Searchable peptide library, news and approval-tracking direction, with an automa
 - **Influencer research and strategy:** audience/creator fit, campaign concepts, brand voice, creative hooks, short-form distribution and performance-learning workflows.
 - **Isearch:** paused influencer discovery, evaluation and tiered-reporting concept.
 - **Autom8r outreach engine:** local-sector prospecting, business research, CRM/Sheet workflows, tailored drafts and deliverability-aware follow-up. A drafted message or sending attempt is not a confirmed conversion.
-- **Client engagements:** bespoke website, AI-assistant and social-media planning for small businesses; artist portfolio/content positioning; creator and hospitality strategy. Client names and deliverables should only be public where permission and evidence allow.
+- **Client engagements:** business website previews and operational prototypes, artist positioning, hospitality content direction and AI assistant concepts. Project stages vary; a proposed campaign is not a completed engagement.
+
+### Client websites, AI systems and creative collaborations
+
+#### LCES — equipment business website + operating system
+**Position:** completed browser-local demonstrations; external client acceptance and public launch unverified.  
+**My contribution:** responsive website review build for an equipment and services business, including service/category browsing, search and filters, FAQs and a copy/download enquiry-summary flow. A separate local operations demo covers **enquiries, customers, jobs, refurbishments, stock, quotes, invoices and tasks**. It demonstrates record management with browser storage, not a secure multi-user backend; payments, reminders and connected Jarvis actions were not validated. The reviewed source and screenshots support a substantially more concrete prototype than a mere pitch.
+
+#### Johnstons Café — local hospitality digital growth
+**Position:** commercial website, social strategy and AI/automation scope; specific final delivery is not independently verified here.  
+**My contribution:** local-business offer design, content planning, video-led social strategy, website/customer journey and enquiry operations. A filming/content pilot and service package were scoped; proposed deliverables should not be counted as published campaign output.
+
+#### PR4DDIE ART — artist brand + digital portfolio
+**Position:** artist marketing and portfolio project / client direction; final public deployment unverified.  
+**My contribution:** positioned a limited-edition, request-only art practice, developed a visually distinctive portfolio-site direction with 3D/motion concepts, and outlined POV short-form videos, social content and commissions-led storytelling. This is **creative strategy plus digital product work**, not just a website mock-up.
+
+#### Scented Suits — automotive commerce + creative
+**Position:** branding, sales/content and collaboration direction, not a verified production storefront built by me.  
+**My contribution:** creative and product positioning around car-fragrance sprays, TikTok/social discovery, product demonstrations and the potential connection between car-meet audiences, in-app shopping and event promotion. This is a separate Jibril venture from [TT Events London](#tt-events-london--automotive-community-app).
+
+#### London Exquisite — company AI operations
+**Position:** AI assistant architecture and solution design; production integration unverified.  
+**My contribution:** multi-agent Jarvis-style assistant concept to help a business monitor social channels, prepare content, organise internal knowledge and coordinate approved workflows. The design work covered CRM/dashboard concepts, data ownership, roles, permissions and approval gates.
+
+#### Other outreach and creative projects
+**Smokey Manor:** social-growth and short-form creative pilot proposal aimed at attention-to-booking journeys; no delivered campaign claimed.  
+**ReeceVisuals:** creator collaboration and outreach direction; no completed client contract claimed.  
+**Ecosystems Group:** business-specific social-content assessment and outreach; no completed implementation claimed.  
+**A Person, More or Less:** marketing and brand strategy for a poetry/reflection book under the pen name **Unknown**; audience development, positioning and a new approach to book discovery and social distribution. Publishing and sales outcomes not independently verified.
+
 ### Selected campaigns and growth systems
 
 **Asteroid RH — visual identity and community content**  
@@ -74,14 +123,11 @@ These examples demonstrate **creative production, technical product design, mark
 | Work | Aim | Evidence boundary |
 | --- | --- | --- |
 | **A8 World** | Verified agent identities, virtual offices and AI-work marketplace | Concept, feasibility work and trailer iterations; marketplace not verified as deployed |
-| **AI to Schools / AI Founders Initiative** | Teach young people to turn AI-assisted ideas into tested business concepts | Workshop and sponsorship planning; a prepared-example classroom demo has been described, not proven educational outcomes |
-| **Campus Radar / PutMeForward** | Local job discovery and better job-application flow | Pilot/prototype direction; no verified placement or product-driven employment outcome |
 | **Restaurant PWA Factory** | Template-based demos and owned ordering experience for local restaurants | Sales model and generator direction, not verified 50 published apps |
 | **Enquiry-to-quote service** | Capture and qualify requests, prepare next steps and follow-up | Reusable service pattern; implementations vary |
-| **Company-wide Jarvis template** | Link organisational information, assistants and approvals | Architecture / development hypothesis |
+| **Company-wide Jarvis template** | Link organisational information, assistants and approvals | Architecture / development hypothesis; related to London Exquisite but reusable across sectors |
 | **Grocery and halal-meat shop OS** | Stock, payments, low-stock and expiry alerts | Workflow design / planning |
 | **SME intelligence platform** | Join sales, customer and operations signals | Research concept |
-| **TT Events London app** | Private event, car-meet and leaderboard experience | Paused application concept |
 | **Vaultly** | Private photo storage | Parked idea |
 | **Plug & Go Tours** | Simplify tour discovery and booking | Parked idea |
 | **SLT tools** | Speech-and-language therapy administration | Parked idea |
@@ -98,7 +144,7 @@ These examples demonstrate **creative production, technical product design, mark
 ## 05 / Historical ownership boundaries
 
 - **StowScents:** historical perfume business, transferred to a family member; **not** claimed as a current owned venture.
-- **StowRidez:** previously operating private-driver/airport-transfer project; present activity should be rechecked.
+- **StowRidez:** previously operated private-driver and airport-transfer service with a branded web experience and local leaflet/lead-generation plan. Present activity should be rechecked.
 - **Systemaise:** served in a **Tech + AI / execution** role, contributing to AI-first operating structures, workflow/role architecture and day-to-day technical execution. **Ibby is the founder and CEO**; this is professional contribution, not ownership of the company.
 - **Private customer work:** kept private unless the client permits publication and sensitive data is removed.
 

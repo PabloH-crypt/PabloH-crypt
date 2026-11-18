@@ -1,50 +1,56 @@
-# haych, 22, Bachelors(BSc) of Artificial intelligence
+# haych.
 
-**AI systems · Product engineering · Distribution**
+### I understand the scroll. I build what happens after the click.
 
-I build the layer between a promising idea and a product people can actually use.
+I came into tech through marketing, not the other way around.
 
-My work crosses **applied AI, software interfaces, workflow architecture and creative growth**. I think about how a system is built, how it fails, how a user understands it, and how the right audience finds it in the first place.
+Influencer research. Creative strategy. Short-form content. Working out what makes somebody stop, pay attention and actually care.
 
-I have worked on independent products, private client projects and collaborative builds. Some are working demonstrations; others are architecture or product-design work. I label the difference.
+Then I got into building the other half: websites, products, AI tools and the systems that turn attention into something useful.
+
+**That's my lane: the audience, the product, and everything in between.**
+
+I can work on the hook that gets someone through the door, the experience that makes them stay, and the workflow that handles what happens next.
+
+## Two sides of the same work
+
+**The marketing brain**
+
+Creator and audience research, positioning, campaign concepts, social-first storytelling, visual identity, content planning and community culture. I think about *why* people would give a product their time before deciding what to build.
+
+**The builder**
+
+Web and mobile product design, React/TypeScript interfaces, Python, AI assistants, automation, API integrations and business operations tools. I like making the journey work beyond the landing page.
+
+## A few things I've worked on
+
+| Area | The work |
+| --- | --- |
+| **Creators & campaigns** | Influencer evaluation, platform-native campaign ideas, short-form hooks, character-led content and brand direction |
+| **Creative tools** | Research and workflow concepts for tracking trends, understanding competitors and developing better campaigns |
+| **Digital experiences** | Motion-led portfolio concepts, app journeys and launch creative for community-focused products |
+| **Business software** | A working browser-based service and operations demo: enquiries, customers, jobs, stock and quotes |
+| **AI interfaces** | A private React/TypeScript calling dashboard, embedded-assistant concepts and structured AI workspaces |
+| **Human-centred products** | Accessible support experiences, mobile product research and privacy-aware interaction design |
+
+Some of this is shipped as a demonstration, some is private collaborative work, and some is still at product-design stage. I don't dress one up as the other.
+
+[**See the work**](PROJECTS.md) · [**How I approach a build**](JOURNEY.md)
+
+## The tools
+
+`TypeScript` · `React` · `JavaScript` · `Python` · `SQL` · `PHP` · `APIs` · `Webhooks` · `Automation`
+
+And just as importantly: audience insight, creator strategy, creative direction and knowing how to explain a product to people who don't care about its tech stack.
+
+## Let's build something people actually want
+
+I'm interested in people working on AI products, creator tools, new interfaces, interesting brands and real problems worth solving.
+
+If you're building something technically impressive but struggling to make people care—or have an audience and need the product behind it—I'd probably enjoy that conversation.
+
+[**Open a conversation**](https://github.com/PabloH-crypt/PabloH-crypt/issues/new) (public GitHub issue; no confidential details).
 
 ---
 
-### Selected work
-
-| Focus | Contribution | Stage |
-| --- | --- | --- |
-| **Business operations software** | Service-site UX, enquiry capture and a local operations console covering jobs, stock, quotes and customer workflows | Working browser demo |
-| **AI calling interface** | React/TypeScript dashboard, agent configuration, contact workflows and a webhook integration path | Private frontend prototype |
-| **AI workflow orchestration** | Specialist task routing, shared records, review gates and explicit human ownership | Configured system / prototypes |
-| **Automotive community product** | Mobile event flows, access controls, organiser experience, community features and launch creative | Product design / prototypes |
-| **Accessible AI experiences** | Memory, routines, familiar information and permission-aware user journeys | Interactive demonstration |
-| **Creative and market intelligence** | Creator research, trend analysis, campaign systems and data-led interface concepts | Product and strategy work |
-
-**The through-line:** engineering that respects the user journey, and creative work that understands the underlying system.
-
-[Explore the case studies](PROJECTS.md) · [Read my engineering notes](JOURNEY.md)
-
-### How I think
-
-- **Make state explicit.** An accepted API request is not the same as a completed operation.
-- **Design for the handoff.** Interfaces, data, people and automations need clear ownership.
-- **Treat privacy as architecture.** Permissions and sensitive data are product decisions, not finishing touches.
-- **Build for adoption.** Positioning, content and distribution influence what should be built.
-- **Show the real stage.** A prototype is valuable evidence without being called production software.
-
-### Working toolkit
-
-`TypeScript` · `React` · `JavaScript` · `Python` · `SQL` · `PHP` · `REST APIs` · `Webhooks` · `Workflow automation`
-
-Product UX, accessible interfaces, structured data, AI-assisted development, influencer research, short-form creative and go-to-market strategy.
-
-### Connect
-
-I’m interested in **applied AI, developer tools, agent interfaces, creator technology and products with real users**—particularly where engineering and distribution intersect.
-
-Have an interesting build, technical problem or collaboration in mind? [Start a conversation through a GitHub issue](https://github.com/PabloH-crypt/PabloH-crypt/issues/new). *Issues are public; please don't include confidential information.*
-
----
-
-<sub>haych / building in public where possible; keeping client code and identities private. Technical substance over artificial activity.</sub>
+*haych. Building with a marketing brain.*

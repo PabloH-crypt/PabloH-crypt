@@ -1,4 +1,4 @@
-# haych.
+# haych, 22, Bachelors of Artificial intelligence
 
 **AI systems · Product engineering · Distribution**
 

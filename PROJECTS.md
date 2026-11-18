@@ -1,69 +1,95 @@
-# Project notes
+# Project register
 
-**autom8r.haych**
+A clear record of products, practical builds, private client engagements and ideas explored. **A website, prototype, design document and deployed system are different forms of evidence.** This page does not treat them as interchangeable.
 
-A portfolio of development work, prototypes and exploration. Each project has a clear stage.
+[← Profile](README.md) · [How I work](JOURNEY.md)
 
-## Autom8r
+## 01 / Business and applied AI
 
-**Problem:** business websites, enquiries and recurring tasks often operate as disconnected parts.
+### [Autom8r](https://autom8r.uk/) — AI systems with a route to customers
+**Position:** operating agency / public website.  
+A combined offer covering business websites, tailored AI assistants, customer-facing chat, enquiry-to-quote and follow-up automations, plus social-media positioning and starter content. Work has included niche research, prospects, tailored outreach and proposals. Actual client delivery is scoped separately; neither a proposal nor a queued campaign is a completed deployment.
 
-**Work:** website development, product scoping, assistant design, automation workflows and content strategy.
+**Particular angle:** the same team thinks about customer attention, user experience and operational follow-through.
 
-**Stage:** active business; public website. Individual client systems have their own scope and implementation status.
+### [KeepSide](https://keepside.uk/) — family memory and dementia-support experience
+**Position:** interactive prototype / under development.  
+Concept and website work includes a memory vault, personal support assistant, daily routines, permission boundaries and a restricted carer view, using fictional demonstration data. The direction has evolved through Alzheimer’s-sector feedback toward family-reviewed, familiar information and practical support. Clinical effectiveness, a live clinical service and formal institutional partnerships are **not established**. Sensitive information and consent are core design requirements.
 
-[Visit Autom8r](https://autom8r.uk/)
+### JARVIS OS / AI office
+**Position:** configured Notion workspaces and documented operating process. [Command centre](https://app.notion.com/p/3e233f4587248142b447cd997eeb6ff1) · [Operating guide](https://app.notion.com/p/3e233f4587248110963ad7c353ebf01a).  
+Seventeen specialist role workboards, shared records, decision logs, work assignment and completion-evidence rules. The coordinator connects research, marketing, code, delivery and risk checks. These are structured assistant roles—not independently running autonomous staff. The visual office is a related interface direction; its independently deployed state has not been audited here.
 
-## KeepSide
+### Agent H Control Panel
+**Position:** private React/TypeScript interface prototype. [Repository (access required)](https://github.com/PabloH-crypt/agent-h-control-panel).  
+Dashboard, contacts, call preparation, agent configuration, integration UI and an external webhook path. Several operations simulate success; browser-based demonstration login is not secure authentication; real call completion is unverified. No production telephony/backend claim is made.
 
-**Problem:** families need a clearer way to organise familiar people, memories and everyday information.
+### Guidestick — embedded AI assistant
+**Position:** co-built SaaS in development; code not publicly verified.  
+Explores a multi-tenant assistant embedded on client sites, supported by an admin dashboard, styling presets, installation snippet, allow-list and conversation history. Initial market hypotheses include clinics and property.
 
-**Work:** product concept, website and interactive-prototype development, with a focus on understandable interactions and family-reviewed information.
+### [Vaultara](https://vaultara.space/) — intelligence before content
+**Position:** product in development; deployment not audited here.  
+An AI creative workflow connecting trends, memes, competitor research, campaign generation, content analysis, strategist chat, pipeline, Telegram tooling and analytics. Intended to improve creative decisions rather than produce undifferentiated content at volume.
 
-**Stage:** interactive prototype and product in development. No clinical validation, released care service or institutional partnership is claimed.
+### [TCG Dex](https://tcgdex.io/) — card-market intelligence
+**Position:** mobile product in development.  
+An Expo/React Native direction spanning Pokémon, Yu-Gi-Oh and sports-card data, including pricing, listings, recent sales, trending, deals, watchlists, portfolio views, offline search and scanning ambitions. Listed features describe product scope, **not an independently verified released feature set**.
 
-[Try the demonstration](https://keepside.uk/demo)
+### [PeptiPulse](https://peptipulse.online/) — specialist reference and news
+**Position:** documented product work; current deployment not verified.  
+Searchable peptide library, news and approval-tracking direction, with an automated content layer planned. Research/reference software, not clinical guidance.
 
-## Agent H Control Panel
+## 02 / Marketing, creative technology and commercial delivery
 
-**Problem:** configuring an AI calling workflow needs a usable interface for agent settings, contacts and call records.
+**Marketing is a technical discipline in this portfolio, not a footnote.**
 
-**Work:** an AI-assisted control-panel prototype built with React, TypeScript, Vite, Tailwind CSS and shadcn/ui.
+- **Influencer research and strategy:** audience/creator fit, campaign concepts, brand voice, creative hooks, short-form distribution and performance-learning workflows.
+- **Isearch:** paused influencer discovery, evaluation and tiered-reporting concept.
+- **Autom8r outreach engine:** local-sector prospecting, business research, CRM/Sheet workflows, tailored drafts and deliverability-aware follow-up. A drafted message or sending attempt is not a confirmed conversion.
+- **Client engagements:** bespoke website, AI-assistant and social-media planning for small businesses; artist portfolio/content positioning; creator and hospitality strategy. Client names and deliverables should only be public where permission and evidence allow.
+- **Asteroid RH:** historical mascot-led and crypto-native content exploration; paused.
+- **Growth Operator X / Krizz:** earlier growth-automation work; paused.
+- **NexaVox LeadGen:** earlier lead-generation venture; paused.
 
-**Implementation:** dashboard, call form, settings, contacts and integration screens. An admin form can POST to a configured external backend.
+## 03 / Systems, workflows and venture experiments
 
-**Stage:** prototype with local browser state and simulated actions alongside the webhook path. The backend is separate from the inspected repository. Source remains private.
-
-**Next:** server-side authentication, durable records, accurate call states and tests for failure cases.
-
-## PHP/MySQL web applications
-
-**Work:** Secure Joke Hub and Film Review Vault explore CRUD workflows and relational data.
-
-**Documented implementation:** object-oriented PHP, PDO, password hashing, session handling, CSRF tokens, output escaping, ownership checks, search and moderation.
-
-**Stage:** learning and development projects. Source and deployment need separate review before public release; this page is not a security audit.
-
-## AI Founders Initiative
-
-**Problem:** producing an AI answer does not establish that an idea is useful, accurate or commercially viable.
-
-**Work:** an interactive classroom demonstration covering claims, cost assumptions, prototype behaviour and evidence.
-
-**Stage:** public demonstration; programme in development. Uses prepared examples rather than live AI calls. Adoption and learning outcomes have not been established.
-
-[Explore the demonstration](https://autom8r.uk/ai-founders/lab)
-
-## Other work
-
-| Project | Field | Stage |
+| Work | Aim | Evidence boundary |
 | --- | --- | --- |
-| Python email manager | Desktop interfaces and object-oriented programming | Learning project |
-| CalmCart | Accessible interface design | Design project |
-| Isearch | Influencer evaluation | Framework and product exploration |
-| Campus Radar | Job discovery | Earlier project direction |
-| A8 World | AI agents and digital business | Concept |
-| Market-data interfaces | Data products | Exploration |
+| **A8 World** | Verified agent identities, virtual offices and AI-work marketplace | Concept, feasibility work and trailer iterations; marketplace not verified as deployed |
+| **AI to Schools / AI Founders Initiative** | Teach young people to turn AI-assisted ideas into tested business concepts | Workshop and sponsorship planning; a prepared-example classroom demo has been described, not proven educational outcomes |
+| **Campus Radar / PutMeForward** | Local job discovery and better job-application flow | Pilot/prototype direction; no verified placement or product-driven employment outcome |
+| **Restaurant PWA Factory** | Template-based demos and owned ordering experience for local restaurants | Sales model and generator direction, not verified 50 published apps |
+| **Enquiry-to-quote service** | Capture and qualify requests, prepare next steps and follow-up | Reusable service pattern; implementations vary |
+| **Company-wide Jarvis template** | Link organisational information, assistants and approvals | Architecture / development hypothesis |
+| **Grocery and halal-meat shop OS** | Stock, payments, low-stock and expiry alerts | Workflow design / planning |
+| **SME intelligence platform** | Join sales, customer and operations signals | Research concept |
+| **Grok trading desk** | Multi-market analysis across asset classes | Interface / research direction, no investment-performance claims |
+| **TT Events London app** | Private event, car-meet and leaderboard experience | Paused application concept |
+| **Vaultly** | Private photo storage | Parked idea |
+| **Plug & Go Tours** | Simplify tour discovery and booking | Parked idea |
+| **SLT tools** | Speech-and-language therapy administration | Parked idea |
+| **WiFi Money agency / crypto growth automation** | Productised digital services and community systems | Historical concepts, not active products |
 
-[Back to the profile](https://github.com/PabloH-crypt)
+## 04 / Education and early builds
 
+- **PHP/MySQL applications:** CRUD, relational data, login, roles/ownership, forms and moderation exercises. Prior documentation references projects such as a joke hub and film-review vault; source and production security must be reviewed before publication.
+- **Python email manager:** object-oriented desktop-application work.
+- **CalmCart:** accessible shopping interface design for older users.
+- **Mona Stores:** relational database and normalisation design.
+- **HealthTech security work:** security and GDPR analysis.
+- **Influencer-marketing data science:** applying data methods to creator/marketing questions.
+- **Ramadan Reset:** completed educational/content resource, not a software product.
+
+## 05 / Historical ownership boundaries
+
+- **StowScents:** historical perfume business, transferred to a family member; **not** claimed as a current owned venture.
+- **StowRidez:** previously operating private-driver/airport-transfer project; present activity should be rechecked.
+- **Systemaise:** external company context where I contributed technical/AI work; **not** represented as my owned business.
+- **Private customer work:** kept private unless the client permits publication and sensitive data is removed.
+
+## Publishing standard
+
+Each project should eventually show: **problem · my role · architecture · what actually works · what does not · reproduction steps · testing · next milestone**. A case study can describe work without publishing proprietary code. If a deployment, metric or partnership is not verified, it should remain labelled as such.
+
+[← Profile](README.md)

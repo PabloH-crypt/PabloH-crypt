@@ -25,6 +25,8 @@ Who is the audience? What are they already watching, searching and asking? Is th
 
 Projects such as Vaultara and the Isearch concept connect this thinking to software: structured research and creative decision support, rather than publishing for its own sake.
 
+I have also explored demanding community-led markets: **Asteroid RH** brought mascot-based creative, memes and short-form campaign direction into a fast-moving audience; **Growth Operator X / Krizz** and **GrowthOS** explored how monitoring, approvals and campaign tooling might support ongoing community operations. Separately, I scoped a **Grok-assisted market-intelligence desk** across several asset classes. I value these for the combination of **visual direction, product thinking and automation design**, not because any one market defines my work.
+
 ### 2. Product engineering
 I develop interfaces and prototypes with Python, JavaScript/TypeScript, React, PHP, relational data and APIs. The work spans Agent H (AI-call administration), KeepSide (accessible family information) and card-market/reference software.
 

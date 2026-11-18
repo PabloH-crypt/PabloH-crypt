@@ -1,45 +1,35 @@
-# Portfolio publishing standards
+# Privacy-first portfolio standard
 
-[← Profile](README.md) · [Project register](PROJECTS.md)
+[← Profile](README.md) · [Selected work](PROJECTS.md)
 
-This repository documents public-facing work. It should look like an engineering portfolio, not a collection of generated marketing claims.
+The goal is to show engineering and creative capability without turning a portfolio into a public inventory of clients, partners, workplaces or unpublished ventures.
 
-## Evidence over decoration
+## Safe to describe
 
-For any project we publish, include:
+- The type of problem, audience and general industry.
+- Your actual contribution and the tools or technologies used.
+- Demonstrable functionality, architecture patterns and constraints.
+- The stage of the work, limitations, and lessons learned.
+- Screenshots or diagrams made entirely with fictional or permission-cleared data.
 
-1. **Problem and audience** — one clear paragraph.
-2. **My exact role** — solo, team, university, client or research.
-3. **Architecture and stack** — what is actually used, not every technology I've heard of.
-4. **Working features** — evidenced by source, a demo or a reproducible test.
-5. **Limitations** — simulated actions, missing integrations, security and accessibility gaps.
-6. **Run and test instructions** — for public source repositories.
-7. **Next milestone** — one concrete, measurable improvement.
+## Do not publish without explicit permission
 
-Distinguish a prepared concept from a functioning prototype, an interface from its backend, a hosted demo from a production system, and a reported payment from a confirmed customer outcome.
+- Real name, education institution, location, personal email, phone, or schedule.
+- Client, collaborator, agency or unreleased product names; project domains or social handles that reveal identity.
+- Internal workspace links, private repository URLs, CRM data, invoices or deal terms.
+- Customer, patient, creator or contact details.
+- Client-owned source code, branding, screenshots or commercial outcomes.
+- Credentials, tokens, keys, secrets or deployment configuration.
+- Claims of autonomous systems, tested backends or successful business outcomes that cannot be evidenced.
 
-## What not to do
+## Code repository checks
 
-- No animated activity generators, inflated skill bars, vanity metrics or generic motivational banners.
-- No fake contribution streaks, testimonials, partnerships, app-store releases or deployment claims.
-- No empty repos created just to make the account appear larger.
-- No public release of client work or shared projects without permission.
-- No screenshots with real customer, patient, student or contact information.
-- No keys, credentials, copied private configuration or secrets in source/history.
-- No claiming ownership of external-company assets.
+Before making a repository public, inspect **files and full commit history** for identity and sensitive information. Confirm ownership and publication rights, remove credentials, check dependencies and include clear setup, testing and limitations.
 
-## Repository hygiene
+A new commit that deletes a secret or name **does not remove it from old commits**. Commit authors, emails, Git history, forks and search-engine caches may still expose information; treat any identity cleanup as a separate history and account-settings review.
 
-Public source projects should have an informative README, appropriate licence (only when chosen), .gitignore, meaningful commits, and a documented test/build path. Before publishing a private repository, audit its files **and history**, credentials, ownership and dependencies. Adding a .gitignore later does not remove secrets already committed.
+## Showcase standards
 
-Use short, purposeful commits and review the diff before merging. Not every project needs a public repo: documentation can be public while implementation stays private.
+Favor a few strong, technically specific anonymised case studies over lists of every venture. Do not create empty repositories, fake metrics, fabricated reviews or activity generators.
 
-## Portfolio priorities
-
-1. Preserve the concise [profile README](README.md).
-2. Keep [PROJECTS.md](PROJECTS.md) comprehensive but factual.
-3. Write technical case studies for a few strong projects with screenshots, diagrams and validated behaviour.
-4. Publish reproducible code only after access, privacy and quality review.
-5. Revisit the register when a stage changes; don't silently promote concepts to products.
-
-The bar is simple: **could another developer distinguish what exists, understand how it works and tell what remains unfinished?**
+**Goal:** an employer or collaborator can understand what was built without learning who commissioned it.

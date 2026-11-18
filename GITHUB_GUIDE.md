@@ -1,35 +1,38 @@
-# Privacy-first portfolio standard
+# Publication & collaboration policy
 
-[← Profile](README.md) · [Selected work](PROJECTS.md)
+[← haych](README.md) · [Work](PROJECTS.md)
 
-The goal is to show engineering and creative capability without turning a portfolio into a public inventory of clients, partners, workplaces or unpublished ventures.
+This is a privacy-conscious technical portfolio. Public material should let another developer judge the kind of work involved without exposing the people or private systems behind it.
 
-## Safe to describe
+## Publish
 
-- The type of problem, audience and general industry.
-- Your actual contribution and the tools or technologies used.
-- Demonstrable functionality, architecture patterns and constraints.
-- The stage of the work, limitations, and lessons learned.
-- Screenshots or diagrams made entirely with fictional or permission-cleared data.
+- A concrete problem, role and technical contribution.
+- Implementation stage and reproducible evidence where available.
+- General architecture, interaction decisions and trade-offs.
+- Limitations, failure modes and areas not yet verified.
+- Demonstrations with fictional or authorised data.
 
-## Do not publish without explicit permission
+## Keep private
 
-- Real name, education institution, location, personal email, phone, or schedule.
-- Client, collaborator, agency or unreleased product names; project domains or social handles that reveal identity.
-- Internal workspace links, private repository URLs, CRM data, invoices or deal terms.
-- Customer, patient, creator or contact details.
-- Client-owned source code, branding, screenshots or commercial outcomes.
-- Credentials, tokens, keys, secrets or deployment configuration.
-- Claims of autonomous systems, tested backends or successful business outcomes that cannot be evidenced.
+- Client, collaborator or unreleased product names and identifying links.
+- Personal name, location, university, private email, phone and schedules.
+- Contracts, prices, invoices, private CRM records and internal workspaces.
+- Secrets, tokens, account identifiers and production configuration.
+- Customer data, client-owned code or assets without publication rights.
 
-## Code repository checks
+## Engineering standard for public code
 
-Before making a repository public, inspect **files and full commit history** for identity and sensitive information. Confirm ownership and publication rights, remove credentials, check dependencies and include clear setup, testing and limitations.
+1. Provide problem context and a short architecture overview.
+2. Include runnable setup and test instructions.
+3. Distinguish actual integrations from mocks and sample data.
+4. Include appropriate permission, validation and failure handling.
+5. Use meaningful commits; never manufacture activity or metrics.
+6. Review all files **and commit history** before publishing anything previously private.
 
-A new commit that deletes a secret or name **does not remove it from old commits**. Commit authors, emails, Git history, forks and search-engine caches may still expose information; treat any identity cleanup as a separate history and account-settings review.
+A README edit does **not** remove information from earlier commits, forks, clones or caches. GitHub account metadata, repository descriptions and commit authors should be reviewed separately.
 
-## Showcase standards
+## Outreach
 
-Favor a few strong, technically specific anonymised case studies over lists of every venture. Do not create empty repositories, fake metrics, fabricated reviews or activity generators.
+The public profile repository accepts GitHub issues. Use them for non-confidential collaboration questions only; issues are public. Sensitive work should move to an appropriate private channel agreed by both parties.
 
-**Goal:** an employer or collaborator can understand what was built without learning who commissioned it.
+**Principle:** evidence over theatre, privacy over publicity.

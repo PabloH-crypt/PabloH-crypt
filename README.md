@@ -1,74 +1,39 @@
-# Haych — AI systems, products & distribution
+# AI systems. Useful products. Creative distribution.
 
-**I build the product, the audience around it, and the system that makes it useful.**
+I work at the intersection of **AI engineering, web products, workflow automation and audience growth**.
 
-London-based founder of [Autom8r](https://autom8r.uk/) and BSc Artificial Intelligence student 
+My approach covers more than writing code: understanding the user, designing the experience, building the workflow and thinking about how people discover and adopt it.
 
-My work sits between software engineering, AI workflows and creative strategy. I care about the full path: **what earns someone's attention → what makes a product worth trying → what happens after they use it**.
+**Focus:** applied AI · TypeScript / React · Python · APIs · automation · product strategy · influencer and short-form marketing
 
-[Autom8r](https://autom8r.uk/) · [KeepSide](https://keepside.uk/) · [Project register](PROJECTS.md) · [How I work](JOURNEY.md)
+[Selected work](PROJECTS.md) · [Approach](JOURNEY.md)
 
----
+## Selected experience
 
-## Selected work
+| Area | Work | Evidence / stage |
+| --- | --- | --- |
+| **AI workflow systems** | Task routing, specialist workspaces, structured records, approvals and review loops | Configured operating workspace and prototypes |
+| **Business software** | Responsive service websites, enquiries, CRM-like operations, inventory and quote workflows | Browser-based demonstration builds |
+| **Automotive community app** | Event discovery, private access flows, organiser tools, car profiles and real-time interaction concepts | Product UX, specifications and trailer concepts |
+| **Conversational AI interfaces** | Embedded website assistants and an AI-calling control panel | Development prototypes; selected integrations simulated |
+| **Human-centred applications** | Accessible memory and routine-support experiences with permission-aware design | Interactive prototype using fictional data |
+| **Creative intelligence** | Trend research, creator evaluation, campaign planning and social-content workflows | Research systems, strategy and product development |
+| **Mobile and data products** | Collectibles-market analysis, watchlists and multi-market dashboard concepts | Mobile development and interface exploration |
 
-| Project | What I work on | Current position |
-| :--- | :--- | :--- |
-| **[Autom8r](https://autom8r.uk/)** | Practical AI systems for businesses: assistants, websites, enquiry workflows, automation and social strategy | Operating agency; individual deployments vary |
-| **[KeepSide](https://keepside.uk/)** | Family-centred dementia support: memory vault, familiar information, accessible routines and assistant experiences | Interactive prototype / in development; not clinically validated |
-| JARVIS OS| Personal AI command centre with 17 specialist workboards, evidence-led tasks and handoffs | Configured interactive office  operating system; roles are not independent autonomous workers |
-| **[Vaultara](https://vaultara.space/)** | Trend research, competitor intelligence and AI-assisted creative campaign workflows | Product development; live capabilities not independently audited here |
-| **Guidestick** | Embedded, multi-tenant AI assistant with admin tooling and configurable deployment | Co-building with Yassin / sinoBuilds; implementation private |
-| **Pokewatchr** | Trading-card intelligence: listings, trends, watchlists, portfolio and scanning direction | Mobile product in development |
-| **TT Events London** | Automotive community app design: meet discovery, private access, convoy updates, crews, TT Radio and organiser controls | App UX/MVP design and concept trailers; production launch not verified |
-| **Agent H** | React/TypeScript control panel for AI calling, contacts, agents and call records | [Private source prototype](https://github.com/PabloH-crypt/agent-h-control-panel); simulated flows clearly documented |
+## What I bring to a build
 
-**More work worth seeing:** [LCES business website + operations demo](PROJECTS.md#lces--equipment-business-website--operating-system), [AI Founders / AI to Schools](PROJECTS.md#ai-to-schools--ai-founders-initiative), [London Exquisite AI OS](PROJECTS.md#london-exquisite--company-ai-operations), [Scented Suits](PROJECTS.md#scented-suits--automotive-commerce--creative), [PR4DDIE ART](PROJECTS.md#pr4ddie-art--artist-brand--digital-portfolio) and the [full list of client, creative and product work](PROJECTS.md).
+**Engineering** — Python, JavaScript / TypeScript, React, HTML/CSS, PHP, SQL, API and webhook integration, data models and interactive prototypes.
 
-**Source visibility:** this profile curates work across public websites, private repositories, prototypes and research. A product link is not a claim that its code is open source or production-verified. See [project-by-project status and limitations](PROJECTS.md).
+**Product** — requirements, UX, accessibility, practical AI assistants, workflow modelling and iteration.
 
-## The part that makes my work different
+**Distribution** — influencer research, creative strategy, campaign concepts, short-form content, brand positioning and conversion journeys.
 
-I started with the *market*, not just the model: influencer research, short-form creative, positioning and how people actually discover a product. I bring that thinking into engineering.
+**Delivery** — translating a business problem into a usable demonstration, scoping what is missing, and distinguishing real integrations from placeholders.
 
-- **Audience & creative:** creator fit, hooks, brand voice, social formats, campaign ideas and distribution — including mascot-led community campaigns and digital-asset communities.
-- **Product & experience:** interface design, accessibility, working demonstrations and useful AI interactions.
-- **Operations:** enquiry capture, workflow automation, approvals, follow-up, documentation and evidence of outcomes.
+I use AI-assisted development as a tool, not as a substitute for understanding the system.
 
-Selected earlier work includes **Asteroid RH** (mascot-led campaign concepts and short-form creative), **GrowthOS** (multi-tenant community-growth system design), **Growth Operator X / Krizz** (automation and growth tooling) and a **Grok-assisted multi-market trading interface**. These sit alongside my work in healthcare technology, local businesses and creator tools — [see the full project register](PROJECTS.md).
+## How this portfolio works
 
-A good assistant is not just a chat bubble. A good website is not just a landing page. And a good marketing campaign needs something worthwhile to send people to.
+Public examples are intentionally **anonymised**. Client identities, unreleased product names, private source code and internal workspaces are not listed. Descriptions distinguish implemented prototypes from planned functionality.
 
-## Inside JARVIS
-
-I use a Notion-based AI work system to coordinate projects and keep decisions traceable. Specialist roles cover marketing (**HAYCHMARK**), software (**FORGE**), research (**ORACLE**), client delivery (**CLIENTOPS**), records (**ARCHIVIST**) and privacy/risk (**SENTINEL**).
-
-The working loop is:
-
-`brief → assign → investigate/build → review → save evidence → verify`
-
-This is a structured operating model, **not** a claim that 17 autonomous agents work independently in the background. [Read the system map](https://app.notion.com/p/3e233f4587248110963ad7c353ebf01a).
-
-## Tools I use and study
-
-**Engineering:** Python · JavaScript / TypeScript · React · PHP · SQL / MySQL · HTML / CSS · HTTP APIs · webhooks
-
-**Applied AI & product:** assistant design · workflow orchestration · conversational interfaces · prototypes · accessibility · testing and security fundamentals
-
-**Growth & creative:** influencer evaluation · audience research · content strategy · creative direction · conversion journeys
-
-I use AI-assisted coding tools. I still distinguish a generated scaffold from working functionality, and a successful demo from a tested deployment.
-
-## Current priorities
-
-1. Develop KeepSide with feedback from families and relevant practitioners, without presenting it as a medical intervention.
-2. Deliver and document real, appropriately scoped Autom8r customer outcomes.
-3. Strengthen reusable AI workflows and the engineering quality of product prototypes.
-4. Publish code, tests and reproducible case studies **when ownership, privacy and readiness permit**.
-
-### More than a list of ideas
-
-[**Project register**](PROJECTS.md) — what exists, its maturity and what is still unverified.  
-[**My journey**](JOURNEY.md) — how marketing, AI and software became one practice.
-
-For project and business enquiries: [autom8r.uk](https://autom8r.uk/).
+For more detail, see the [anonymous case studies](PROJECTS.md) and [working approach](JOURNEY.md).

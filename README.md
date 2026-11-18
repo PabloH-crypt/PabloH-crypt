@@ -46,7 +46,7 @@ I want to be involved in **what gets built and how it reaches people**. That's t
 
 I work across interfaces, workflow design, product prototypes and applied AI. I use AI-assisted development, but I don't confuse a generated interface with a functioning backend or a demo with a deployed product.
 
-[**What I've built and contributed →**](PROJECTS.md) · [**How I approach a build →**](JOURNEY.md)
+[**What I've built and contributed →**](CONTRIBUTIONS.md) · [**How I approach a build →**](JOURNEY.md)
 
 ## Let's talk
 

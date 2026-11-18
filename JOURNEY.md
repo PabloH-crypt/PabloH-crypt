@@ -1,32 +1,58 @@
-# Engineering + audience + operations
+# Engineering notes
 
-[← Profile](README.md) · [Selected work](PROJECTS.md)
+[← haych](README.md) · [Work](PROJECTS.md)
 
-My background combines **software and AI development** with **influencer marketing, creative strategy and business operations**.
+I work on products at the point where **interfaces, AI, business processes and user behaviour** meet. These are some design principles I return to across prototypes and client work.
 
-Those disciplines influence how I approach a project. I don't start with a stack or a list of AI features; I start with the user's actual task and the reason they would adopt the product.
+## 01 / A request is not an outcome
 
-## Build
+A frontend can successfully POST to a service and still have no evidence that the underlying job finished.
 
-I develop interfaces, structured workflows and AI-assisted prototypes using Python, JavaScript/TypeScript, React, PHP, SQL and HTTP APIs. Experience spans business operations software, mobile product UX, agent configuration panels and accessibility-focused concepts.
+For any asynchronous workflow, I want to distinguish the stages:
 
-The technical work is a mixture of implemented demos, private collaborative development and research. I distinguish those stages rather than treating every concept as a release.
+```text
+draft → submitting → accepted → running → succeeded
+                                   └──→ failed
+```
 
-## Distribute
+The exact contract depends on the backend. In a calling interface, a `200 OK` from a webhook should not be labelled “call completed.” Completion requires an authoritative event, status check or equivalent evidence.
 
-I work on audience research, creator selection, brand positioning, campaign concepts, social formats and the journey from attention to enquiry. I am particularly interested in connecting creative processes with reusable tooling: research, content planning, approvals and measurement.
+**What I look for:** request IDs, explicit pending states, retry/error behaviour and an auditable source of truth.
 
-## Operate
+## 02 / Local persistence is not a backend
 
-I design workflows that turn a promising interface into a repeatable process: task routing, source-of-truth records, human approvals, enquiry follow-up and error handling. I care about permissions and the difference between a simulated button and a verified outcome.
+Browser storage is useful for a fast, interactive operations demonstration. It is not a shared database and is not a security boundary.
 
-## The standard
+A production transition needs to address authentication, authorisation, ownership checks, validation, auditability, backups and data retention—not just replace `localStorage` with an API call.
 
-A useful case study should make four things clear:
+**What I look for:** entity boundaries, permission checks on the server, predictable empty/error states and a repeatable test path.
 
-1. The problem and who it affects.
-2. My specific technical or creative contribution.
-3. What can be demonstrated today.
-4. What remains unfinished or unverified.
+## 03 / An AI assistant needs constraints
 
-The [project notes](PROJECTS.md) are intentionally anonymised. They show the nature of the work without exposing customer names, unreleased brands, personal details or internal systems.
+An interface with multiple specialist roles can organise work, but the roles themselves do not guarantee autonomous execution or correct answers.
+
+Useful systems need explicit context boundaries, source provenance, clear tool permissions, human approval for consequential actions and verification of output.
+
+**What I look for:** what the assistant may read, what it may change, who approves a change, and how a mistake is detected.
+
+## 04 / Accessibility changes the architecture
+
+For a product built around sensitive or familiar information, accessibility isn't just visual polish.
+
+The design has to account for cognitive load, understandable language, predictable navigation, consent, appropriate role access and the possibility that information is outdated or incorrect.
+
+A fictional-data demonstration can test interaction ideas. It cannot establish real-world or clinical effectiveness.
+
+## 05 / Distribution belongs in product thinking
+
+A feature is only useful if someone understands it, discovers it and returns to it.
+
+My experience in influencer research and creative strategy changes how I scope technical products: audience fit, the first impression, short-form explanation, onboarding, call-to-action and follow-up all shape the system.
+
+That doesn't mean every product needs a content machine. It means **adoption is a design constraint**.
+
+---
+
+These are patterns and lessons from my work, not claims that every prototype already implements them at production quality.
+
+[Browse the anonymised case studies](PROJECTS.md).

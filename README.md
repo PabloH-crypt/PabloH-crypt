@@ -1,56 +1,59 @@
 # haych.
 
-### I understand the scroll. I build what happens after the click.
+**I can build the product. I also know how to make people care about it.**
 
-I came into tech through marketing, not the other way around.
+I came into tech through influencer marketing, campaigns and business. I learned to think about the audience first: what gets attention, what earns trust, and what actually gets someone to act.
 
-Influencer research. Creative strategy. Short-form content. Working out what makes somebody stop, pay attention and actually care.
+Now I build the product behind that attention — websites, AI assistants, apps and automations.
 
-Then I got into building the other half: websites, products, AI tools and the systems that turn attention into something useful.
+I'm not trying to be the person with the longest list of AI tools. I'm interested in making **the idea, the experience and the distribution** work together.
 
-**That's my lane: the audience, the product, and everything in between.**
+## What I'm building
 
-I can work on the hook that gets someone through the door, the experience that makes them stay, and the workflow that handles what happens next.
+These are my ventures and product experiments, not a list of twelve launched startups.
 
-## Two sides of the same work
+| Project | What I'm working on | Where it stands |
+| --- | --- | --- |
+| **Autom8r** | AI assistants, business websites, enquiry and follow-up automations, with social strategy built into the offer | Active agency |
+| **KeepSide** | Family memories, familiar information, accessible routines and a personal support assistant | Interactive prototype; in development |
+| **Vaultara** | Creative intelligence: trends, competitor research, campaign ideas and content workflows | Product development |
+| **Pokewatchr** | Collectibles intelligence, market references, watchlists and portfolio tools | Mobile product in development |
+| **JARVIS OS** | My AI workspace for coordinating specialist tasks, records and approvals | Configured system; evolving interface |
+| **Agent H** | AI-calling control panel with agent settings, contacts and webhook workflows | Private React/TypeScript prototype |
+| **A8 World** | A marketplace concept for AI agents, identity and reputation | Research and product storytelling |
+| **PeptiPulse** | Searchable specialist reference and news experience | Product work; deployment not verified |
 
-**The marketing brain**
+And that's only part of it. I've also worked on an **automotive community app**, an **equipment-business website and operations console**, **embedded AI assistants**, and an **AI entrepreneurship workshop/demo**. Client and collaborator names stay private.
 
-Creator and audience research, positioning, campaign concepts, social-first storytelling, visual identity, content planning and community culture. I think about *why* people would give a product their time before deciding what to build.
+[**Full project portfolio →**](PROJECTS.md)
 
-**The builder**
+## The other half of my experience
 
-Web and mobile product design, React/TypeScript interfaces, Python, AI assistants, automation, API integrations and business operations tools. I like making the journey work beyond the landing page.
+I do more than scope software.
 
-## A few things I've worked on
+I've worked with **influencer research, creator outreach, campaign concepts, short-form content, brand positioning, visual direction and events**. Across my own ventures and private collaborations, that has included:
 
-| Area | The work |
-| --- | --- |
-| **Creators & campaigns** | Influencer evaluation, platform-native campaign ideas, short-form hooks, character-led content and brand direction |
-| **Creative tools** | Research and workflow concepts for tracking trends, understanding competitors and developing better campaigns |
-| **Digital experiences** | Motion-led portfolio concepts, app journeys and launch creative for community-focused products |
-| **Business software** | A working browser-based service and operations demo: enquiries, customers, jobs, stock and quotes |
-| **AI interfaces** | A private React/TypeScript calling dashboard, embedded-assistant concepts and structured AI workspaces |
-| **Human-centred products** | Accessible support experiences, mobile product research and privacy-aware interaction design |
+- Developing content angles for creators, artists, local businesses and online communities.
+- Thinking in hooks, formats, audience fit and what gets shared — not just generic posts.
+- Mascot-led creative, launch trailers, motion-driven portfolio ideas and social-first product stories.
+- Joining the marketing journey to the actual business: enquiries, follow-up, customer experience and conversion.
 
-Some of this is shipped as a demonstration, some is private collaborative work, and some is still at product-design stage. I don't dress one up as the other.
+I want to be involved in **what gets built and how it reaches people**. That's the part I think is often missing when a product is built entirely around the technology.
 
-[**See the work**](PROJECTS.md) · [**How I approach a build**](JOURNEY.md)
-
-## The tools
+## Engineering
 
 `TypeScript` · `React` · `JavaScript` · `Python` · `SQL` · `PHP` · `APIs` · `Webhooks` · `Automation`
 
-And just as importantly: audience insight, creator strategy, creative direction and knowing how to explain a product to people who don't care about its tech stack.
+I work across interfaces, workflow design, product prototypes and applied AI. I use AI-assisted development, but I don't confuse a generated interface with a functioning backend or a demo with a deployed product.
 
-## Let's build something people actually want
+[**What I've built and contributed →**](PROJECTS.md) · [**How I approach a build →**](JOURNEY.md)
 
-I'm interested in people working on AI products, creator tools, new interfaces, interesting brands and real problems worth solving.
+## Let's talk
 
-If you're building something technically impressive but struggling to make people care—or have an audience and need the product behind it—I'd probably enjoy that conversation.
+Interested in **AI products, creator tech, interesting brands, useful tools and technical founders who care about the audience**.
 
-[**Open a conversation**](https://github.com/PabloH-crypt/PabloH-crypt/issues/new) (public GitHub issue; no confidential details).
+Building something clever that nobody understands? Or got an audience and need the product behind it? That's where I'd like to contribute.
 
----
+[**Start a conversation**](https://github.com/PabloH-crypt/PabloH-crypt/issues/new) — public GitHub issue, so leave confidential details out.
 
-*haych. Building with a marketing brain.*
+*haych — building with a marketing brain.*

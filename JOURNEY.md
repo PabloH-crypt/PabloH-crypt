@@ -1,67 +1,32 @@
-# How I build
+# Engineering + audience + operations
 
-[← Profile](README.md) · [Project register](PROJECTS.md)
+[← Profile](README.md) · [Selected work](PROJECTS.md)
 
-## I started with attention
+My background combines **software and AI development** with **influencer marketing, creative strategy and business operations**.
 
-Marketing taught me something software alone cannot: people do not adopt a product just because it is technically interesting. It has to be understood, encountered at the right time and worth returning to.
+Those disciplines influence how I approach a project. I don't start with a stack or a list of AI features; I start with the user's actual task and the reason they would adopt the product.
 
-That led me into influencer research, short-form content, campaign ideas, brand positioning and creative direction. I became interested in the systems behind the content as much as the content itself: research, briefs, production, approvals, leads, follow-up and measurement.
+## Build
 
-## Then I started building the system behind the promise
+I develop interfaces, structured workflows and AI-assisted prototypes using Python, JavaScript/TypeScript, React, PHP, SQL and HTTP APIs. Experience spans business operations software, mobile product UX, agent configuration panels and accessibility-focused concepts.
 
-I'm studying Computing & Artificial Intelligence at the University of Greenwich while building Autom8r, an agency combining business websites, useful AI assistants, automations and social strategy.
+The technical work is a mixture of implemented demos, private collaborative development and research. I distinguish those stages rather than treating every concept as a release.
 
-The work has also taken me into client and collaborator projects: Johnstons Café, PR4DDIE ART, Scented Suits, London Exquisite and TT Events London each demanded a different balance of audience, experience, operations and storytelling. Some reached a demonstrable prototype; others remain briefs, pilots or commercial proposals.
+## Distribute
 
-A website might get an enquiry; a system must make sure that enquiry is actually handled. An AI assistant might answer a question; the surrounding product still needs a clear interface, reliable information, permissions and a way to know when the answer is wrong.
+I work on audience research, creator selection, brand positioning, campaign concepts, social formats and the journey from attention to enquiry. I am particularly interested in connecting creative processes with reusable tooling: research, content planning, approvals and measurement.
 
-That's the connection I want my work to demonstrate:
+## Operate
 
-**attention → understanding → interaction → useful outcome → evidence**
+I design workflows that turn a promising interface into a repeatable process: task routing, source-of-truth records, human approvals, enquiry follow-up and error handling. I care about permissions and the difference between a simulated button and a verified outcome.
 
-## Three overlapping disciplines
+## The standard
 
-### 1. Creative distribution
-Who is the audience? What are they already watching, searching and asking? Is the message clear in the first few seconds? Which creator, format, hook and call to action fits?
+A useful case study should make four things clear:
 
-Projects such as Vaultara and the Isearch concept connect this thinking to software: structured research and creative decision support, rather than publishing for its own sake.
+1. The problem and who it affects.
+2. My specific technical or creative contribution.
+3. What can be demonstrated today.
+4. What remains unfinished or unverified.
 
-I have also explored demanding community-led markets: **Asteroid RH** brought mascot-based creative, memes and short-form campaign direction into a fast-moving audience; **Growth Operator X / Krizz** and **GrowthOS** explored how monitoring, approvals and campaign tooling might support ongoing community operations. Separately, I scoped a **Grok-assisted market-intelligence desk** across several asset classes. I value these for the combination of **visual direction, product thinking and automation design**, not because any one market defines my work.
-
-### 2. Product engineering
-I develop interfaces and prototypes with Python, JavaScript/TypeScript, React, PHP, relational data and APIs. The work spans Agent H (AI-call administration), KeepSide (accessible family information), **TT Events London** (automotive-community app design and trailer concepts), LCES (equipment-business website and browser-local operations demo) and card-market/reference software.
-
-I use AI-assisted tools, but a scaffold is only the beginning. I am working toward more rigorous testing, repeatable builds, secure backends and readable repositories.
-
-### 3. Operating systems
-JARVIS is my experiment in keeping multiple areas of work coordinated: dedicated role boards, task ownership, decision provenance and verification. Autom8r applies the same principle at business scale through enquiry handling, follow-up, assistants and operational workflows.
-
-Seventeen roles on a page do not equal seventeen autonomous employees. A demo button does not equal a working integration. That distinction is important to the engineering.
-
-## The projects that challenge me
-
-**KeepSide** makes accessibility, consent and human-centred design non-negotiable. I want to learn from families, practitioners and relevant organisations without pretending a prototype has established clinical benefit.
-
-**Autom8r** makes outcomes concrete. There is no point claiming a clever automation if a business cannot operate it or if it creates more work.
-
-**Vaultara** asks whether AI-assisted creative tools can improve judgement and distribution—not just output volume.
-
-**A8 World** asks a harder platform question: could agents become usable and trustworthy suppliers of work? For now, that is a research and validation question, not a launched marketplace.
-
-## What I want the GitHub record to show
-
-Not immaculate banners or hundreds of invented contributions. I want a visitor to be able to answer:
-
-- What problem did this project address?
-- What did I personally design, build or contribute?
-- What works now and what is still simulated?
-- What trade-offs did I make?
-- What did testing or actual users change?
-- What would I build next?
-
-Some work belongs in public repos. Client systems, sensitive prototypes and proprietary code may belong in private repos with publishable case studies instead.
-
-I see my edge as **connecting technology, narrative and commercial reality**. The portfolio will become stronger as those connections are backed by more reproducible technical evidence.
-
-[Explore the project register](PROJECTS.md).
+The [project notes](PROJECTS.md) are intentionally anonymised. They show the nature of the work without exposing customer names, unreleased brands, personal details or internal systems.

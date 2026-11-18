@@ -28,9 +28,11 @@ My work sits between software engineering, AI workflows and creative strategy. I
 
 I started with the *market*, not just the model: influencer research, short-form creative, positioning and how people actually discover a product. I bring that thinking into engineering.
 
-- **Audience & creative:** creator fit, hooks, brand voice, social formats, campaign ideas and distribution.
+- **Audience & creative:** creator fit, hooks, brand voice, social formats, campaign ideas and distribution — including mascot-led community campaigns and digital-asset communities.
 - **Product & experience:** interface design, accessibility, working demonstrations and useful AI interactions.
 - **Operations:** enquiry capture, workflow automation, approvals, follow-up, documentation and evidence of outcomes.
+
+Selected earlier work includes **Asteroid RH** (mascot-led campaign concepts and short-form creative), **GrowthOS** (multi-tenant community-growth system design), **Growth Operator X / Krizz** (automation and growth tooling) and a **Grok-assisted multi-market trading interface**. These sit alongside my work in healthcare technology, local businesses and creator tools — [see the full project register](PROJECTS.md).
 
 A good assistant is not just a chat bubble. A good website is not just a landing page. And a good marketing campaign needs something worthwhile to send people to.
 

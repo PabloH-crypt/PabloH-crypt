@@ -2,42 +2,36 @@
 
 [← haych](README.md) · [Selected work](PROJECTS.md)
 
-I've never been particularly interested in building something just because a tool makes it possible.
+I started on the marketing side. Influencers, creative ideas, content, campaigns and the question of why people pay attention to one thing and scroll past another.
 
-A product needs a reason to exist. And if people don't understand it, discover it or trust it, good code on its own won't save it.
+That experience shaped how I think about technology. I don't just want a functioning app. I want to understand **who it is for, why they would care and what happens once they try it**.
 
-That's why my background in influencer marketing and creative strategy matters to how I build software.
+## Audience first
 
-## First: who is this actually for?
+I look at creator and audience fit, the offer, the first impression, social formats and what gets shared. There is no point building something complicated if its value cannot be explained simply.
 
-Before choosing a framework, I want to know who the user is, where their attention already goes and what problem would make them change their behaviour.
+That thinking shows up in creative systems work like Vaultara, but also in how I approach business tools and product launches.
 
-This is where creator research, audience fit, positioning and campaign thinking become product skills. Sometimes the right change isn't another feature. It's a clearer offer, a better first impression or a simpler journey.
+## Then the actual product
 
-## Then: what happens after the click?
+Autom8r sits at the intersection: the public-facing experience, the assistant, the enquiry and the follow-up should belong to the same customer journey.
 
-I like mapping the whole experience. Someone watches a video, opens a page, asks a question, submits an enquiry—and then what?
+KeepSide is a different challenge. When a product involves familiar information and potentially vulnerable users, clarity, consent and appropriate access matter more than impressive animations.
 
-That's where interfaces, backend contracts, APIs and automation matter. A beautiful page is only one piece. The useful work is connecting that page to the process behind it.
+In other experiments—from Pokewatchr to an automotive-community app—I've worked on product flows, information structure and the story around the experience.
 
-In a business operations prototype, that meant designing the experience around enquiries, customer records, jobs, stock and quotes—not simply making a homepage.
+## And the system behind it
 
-## Technical honesty matters
+I like turning an interface into something that supports a real workflow. For a business operations demonstration, that meant separate records for customers, jobs, quotes, stock and tasks. For AI-agent work, it meant thinking about states, approvals and integration boundaries.
 
-I have built and explored AI-agent interfaces, workflow systems and web products. I also know the difference between a demo and a deployment.
+I don't treat a webhook response as proof a call finished, or browser storage as a production database. AI tools speed up parts of development; they don't erase the need to understand what the software actually does.
 
-A `200 OK` from a call-trigger endpoint is not the same as a completed telephone call. Data saved in `localStorage` is not a shared database. A set of named AI roles is not a fleet of autonomous employees.
+## Why these skills belong together
 
-Those details aren't marketing copy. They determine whether a product can be trusted.
+Marketing isn't what happens after a developer finishes. It should help decide what deserves to be built.
 
-## Creative isn't an afterthought
+And engineering isn't separate from growth. A good campaign can introduce the product, but the experience and follow-up decide whether the attention was worth anything.
 
-Short-form content, audience insight and visual storytelling influence the products I work on. For an event-platform concept, the app journey and the launch creative were part of the same thinking. For content-intelligence concepts, the aim was to make research and production easier without replacing human judgement.
+**That's the part I want to work on: the hook, the product and what happens next.**
 
-I don't want marketing to be what happens after the build. I want it to help decide **what deserves to be built**.
-
----
-
-**That's the kind of work I'm after:** useful software, a clear story, and an audience with an actual reason to care.
-
-[See the selected projects](PROJECTS.md).
+[Explore the portfolio](PROJECTS.md).

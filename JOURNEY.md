@@ -12,6 +12,8 @@ That led me into influencer research, short-form content, campaign ideas, brand 
 
 I'm studying Computing & Artificial Intelligence at the University of Greenwich while building Autom8r, an agency combining business websites, useful AI assistants, automations and social strategy.
 
+The work has also taken me into client and collaborator projects: Johnstons Café, PR4DDIE ART, Scented Suits, London Exquisite and TT Events London each demanded a different balance of audience, experience, operations and storytelling. Some reached a demonstrable prototype; others remain briefs, pilots or commercial proposals.
+
 A website might get an enquiry; a system must make sure that enquiry is actually handled. An AI assistant might answer a question; the surrounding product still needs a clear interface, reliable information, permissions and a way to know when the answer is wrong.
 
 That's the connection I want my work to demonstrate:
@@ -28,7 +30,7 @@ Projects such as Vaultara and the Isearch concept connect this thinking to softw
 I have also explored demanding community-led markets: **Asteroid RH** brought mascot-based creative, memes and short-form campaign direction into a fast-moving audience; **Growth Operator X / Krizz** and **GrowthOS** explored how monitoring, approvals and campaign tooling might support ongoing community operations. Separately, I scoped a **Grok-assisted market-intelligence desk** across several asset classes. I value these for the combination of **visual direction, product thinking and automation design**, not because any one market defines my work.
 
 ### 2. Product engineering
-I develop interfaces and prototypes with Python, JavaScript/TypeScript, React, PHP, relational data and APIs. The work spans Agent H (AI-call administration), KeepSide (accessible family information) and card-market/reference software.
+I develop interfaces and prototypes with Python, JavaScript/TypeScript, React, PHP, relational data and APIs. The work spans Agent H (AI-call administration), KeepSide (accessible family information), **TT Events London** (automotive-community app design and trailer concepts), LCES (equipment-business website and browser-local operations demo) and card-market/reference software.
 
 I use AI-assisted tools, but a scaffold is only the beginning. I am working toward more rigorous testing, repeatable builds, secure backends and readable repositories.
 

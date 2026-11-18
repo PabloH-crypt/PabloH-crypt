@@ -32,7 +32,7 @@ Explores a multi-tenant assistant embedded on client sites, supported by an admi
 **Position:** product in development; deployment not audited here.  
 An AI creative workflow connecting trends, memes, competitor research, campaign generation, content analysis, strategist chat, pipeline, Telegram tooling and analytics. Intended to improve creative decisions rather than produce undifferentiated content at volume.
 
-### [TCG Dex](https://tcgdex.io/) — card-market intelligence
+### Pokewatchr — card-market intelligence
 **Position:** mobile product in development.  
 An Expo/React Native direction spanning Pokémon, Yu-Gi-Oh and sports-card data, including pricing, listings, recent sales, trending, deals, watchlists, portfolio views, offline search and scanning ambitions. Listed features describe product scope, **not an independently verified released feature set**.
 
